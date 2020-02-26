@@ -1,0 +1,13 @@
+title: "OpenEyes 2020: Eye Gaze in AR, VR, and in the Wild"
+email: seon.wook@swook.net
+description: OpenEyes 2020 Workshop co-located at ECCV 2020
+  ---
+baseurl: "/openeyesworkshop.github.io" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+# Google Analytics
+google_analytics: UA-99765598-4
+
