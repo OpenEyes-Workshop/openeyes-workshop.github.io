@@ -316,10 +316,10 @@ acknowledgements: ""
 </div>
 <br>
 <div class="row">
-  <!--<div class="col-xs-2"></div>-->
-  <div class="col-xs-4 sponsor">
+  <div class="col-xs-2"></div>
+  <!--<div class="col-xs-4 sponsor">
     <a href="https://www.samsung.com/" target="_blank"><img src="{{ "/static/img/samsung.jpg" | prepend:site.baseurl }}" /></a>
-  </div>
+  </div>-->
   <!--<div class="col-xs-1"></div>-->
   <div class="col-xs-4 sponsor">
     <a href="https://www.nvidia.com/" target="_blank"><img src="{{ "/static/img/nvidia.jpg" | prepend:site.baseurl }}" /></a>
@@ -328,7 +328,7 @@ acknowledgements: ""
   <div class="col-xs-4 sponsor">
     <a href="https://www.tobii.com/" target="_blank"><img src="{{ "/static/img/tobii.jpg" | prepend:site.baseurl }}" /></a>
   </div>
-  <!--<div class="col-xs-2"></div>-->
+  <div class="col-xs-2"></div>
 </div>
 <br>
 <div class="row">
