@@ -117,15 +117,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>TBD</td>
+          <td>Friday, 5th June 2020</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>TBD </td>
+          <td>Friday, 3rd July 2020</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>TBD </td>
+          <td>Friday, 17th July 2020</td>
         </tr>
         <!--<tr id="schedule">
           <td>Extended Abstracts Deadline</td>
