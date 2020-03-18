@@ -228,9 +228,9 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-2">
-    <img class="people-pic" src="{{ "/static/img/people/ph.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" src="{{ "/static/img/people/cp.jpg" | prepend:site.baseurl }}">
     <div class="people-name">
-      Cristina Palmero Cantari&ntilde;o
+      Cristina Palmero
       <h6>Universitat de Barcelona (UB)</h6>
     </div>
   </div>
@@ -291,6 +291,13 @@ acknowledgements: ""
     <div class="people-name">
       Tarek Hefny
       <h6>Facebook Reality Labs</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <img class="people-pic" src="{{ "/static/img/people/kb.jpg" | prepend:site.baseurl }}">
+    <div class="people-name">
+      Karsten Behrendt
+      <h6>Facebook</h6>
     </div>
   </div>
   <div class="col-xs-2">
