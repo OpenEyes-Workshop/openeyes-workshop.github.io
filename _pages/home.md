@@ -14,7 +14,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>OpenEyes: Eye Gaze in AR, VR, and in the Wild</h1></center>
-    <center><h2>ECCV 2020 Workshop, Glasgow, Scotland</h2></center>
+    <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
     <!--<center>Sunday October 27 2019, 8:30am - 12:50pm</center>-->
     <!--<center>Location: <b>Room 318 A</b></center>-->
   </div>
@@ -68,7 +68,8 @@ acknowledgements: ""
   </p>
   <p>
   For 2020, the Facebook and GAZE committees are partnering to host a joint workshop titled
-  “Eye Gaze in VR, AR, and in the Wild” at the biennial ECCV conference. The workshop will host
+  “Eye Gaze in VR, AR, and in the Wild” at the biennial <a href="https://eccv2020.eu/">ECCV conference</a>.
+  The workshop will host
   two tracks: the first focuses on gaze estimation and prediction methods, with a focus on
   accuracy and robustness in natural settings (in-the-wild); the second track focuses on the
   scale and generalization problem for eye tracking systems operating on AR and VR platforms.
@@ -133,7 +134,7 @@ acknowledgements: ""
         </tr>-->
         <tr>
           <td>Workshop Date</td>
-          <td>TBD </td>
+          <td>Sunday, 23rd August 2020</td>
         </tr>
       </tbody>
     </table>
