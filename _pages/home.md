@@ -347,7 +347,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12 sponsor">
-    <a href="https://research.fb.com/category/augmented-reality-virtual-reality/" target="_blank"><img width="400px" src="{{ "/static/img/frl.svg" | prepend:site.baseurl }}" /></a>
+    <a href="https://research.fb.com/category/augmented-reality-virtual-reality/" target="_blank"><img src="{{ "/static/img/frl.png" | prepend:site.baseurl }}" style="max-height: 45px;" /></a>
   </div>
 </div>
 
