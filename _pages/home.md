@@ -73,8 +73,9 @@ acknowledgements: ""
   two tracks: the first focuses on gaze estimation and prediction methods, with a focus on
   accuracy and robustness in natural settings (in-the-wild); the second track focuses on the
   scale and generalization problem for eye tracking systems operating on AR and VR platforms.
-  The second track also includes the 2020 eye tracking challenge. Stay tuned for more details
-  about the new challenge.
+  The second track also includes the 2020 eye tracking challenge.
+  More information on the OpenEDS 2020 challenge can be found at
+  <a href="https://research.fb.com/programs/openeds-2020-challenge/">https://research.fb.com/programs/openeds-2020-challenge/</a>
   </p>
 
   <p>
