@@ -11,7 +11,7 @@ acknowledgements: ""
 ---
 
 <br>
-<div class="row">
+<div class="row" id="intro">
   <div class="col-xs-12">
     <center><h1>OpenEyes: Eye Gaze in AR, VR, and in the Wild</h1></center>
     <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
@@ -111,7 +111,7 @@ acknowledgements: ""
 </div>
 <br>
 
-<div class="row" id="call">
+<div class="row" id="calls">
   <div class="col-xs-12 panel-group">
     <h2>Call for Contributions</h2>
     <br>
@@ -166,7 +166,7 @@ acknowledgements: ""
 </div>
 <br>
 
-<div class="row">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
     <br>
