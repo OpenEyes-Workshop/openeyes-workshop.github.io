@@ -126,23 +126,25 @@ acknowledgements: ""
 	    <a href="https://openreview.net/group?id=thecvf.com/ECCV/2020/Workshop/OpenEyes" target="_blank" title="OpenReview Submission System for OpenEyes 2020">this OpenReview link</a>.
 	  </p>
 	  <p>
-	    Authors of previously rejected main conference submissions are also welcome to submit their work to our workshop. When doing so, you must submit the previous reviewers' comments (named as <code>previous_reviews.pdf</code>) and a letter of changes (named as <code>letter_of_changes.pdf</code>) as part of your supplementary materials to clearly demonstrate the changes made to address the comments made by previous reviewers. Re-submissions will go through the same reviewing procedure as new submissions (see previous paragraph).
+	    Accepted papers will be published in the official ECCV Workshops proceedings and the Computer Vision Foundation (CVF) Open Access archive.
+	  </p>
+	  <p>
+	    <span style="font-weight:500;">Note:</span> Authors of previously rejected main conference submissions are also welcome to submit their work to our workshop. When doing so, you must submit the previous reviewers' comments (named as <code>previous_reviews.pdf</code>) and a letter of changes (named as <code>letter_of_changes.pdf</code>) as part of your supplementary materials to clearly demonstrate the changes made to address the comments made by previous reviewers. Re-submissions will go through the same reviewing procedure as new submissions (see previous paragraph).
           </p>
         </div>
       </div>
     </div>
     <br>
-    <!--
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-ea" style="cursor:pointer;">
         <h3 style="margin:0;">Extended Abstracts</h3>
       </div>
-      <div id="call-ea" class="panel-collapse collapse" data-parent="#call">
+      <div id="call-ea" class="panel-collapse collapse in" data-parent="#call">
         <div class="panel-body">
           <p>
             In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ECCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
           </p>
-          <p>Extended abstracts are limited to three pages and must be created using <a href="/static/GAZE 2019 Extended Abstract Template.zip" title="GAZE 2019 Extended Abstracts Template">this LaTeX template</a>. The submission must be sent to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> by 16th September.
+          <p>Extended abstracts are limited to six pages and must be created using the <a href="https://eccv2020.eu/author-instructions/" target="_blank">official ECCV format</a>. The submission must be sent to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> by the deadline (TBD).
           </p>
           <p>
             We will evaluate and notify authors of acceptance as soon as possible after receiving their extended abstract submission.
@@ -153,11 +155,33 @@ acknowledgements: ""
     <br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
+        <h3 style="margin:0;">OpenEDS 2020 Challenges</h3>
+      </div>
+      <div id="call-poster" class="panel-collapse collapse in" data-parent="#call">
+        <div class="panel-body">
+	  <p>
+	    The OpenEDS 2020 Challenges are hosted by the second track of the OpenEyes Workshop, and consist of two challenges:
+	  </p>
+	  <ul>
+	    <li>Track 1: Gaze Prediction Challenge</li>
+	    <li>Track 2: Sparse Temporal Semantic Segmentation Challenge</li>
+	  </ul>
+	  <p>
+            More information on the OpenEDS 2020 challenge can be found at: <br>
+            <a href="https://research.fb.com/programs/openeds-2020-challenge/">https://research.fb.com/programs/openeds-2020-challenge/</a>
+	  </p>
+        </div>
+      </div>
+    </div>
+    <!--
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
         <h3 style="margin:0;">Accepted ECCV/CVPR Papers</h3>
       </div>
       <div id="call-poster" class="panel-collapse collapse" data-parent="#call">
         <div class="panel-body">
-          Relevant papers that were accepted at the main conference (ICCV 2019) or at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:gaze.iccv19@gmail.com">gaze.iccv19@gmail.com</a> at any time to register your presence.
+          Relevant papers that were accepted at the main conference (ICCV 2019) or at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> at any time to register your presence.
         </div>
       </div>
     </div>
@@ -173,12 +197,16 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td>
+          <td>Full Paper Submission Deadline</td>
           <td>Friday, 5th June 2020</td>
         </tr>
         <tr>
-          <td>Notification to Authors</td>
+          <td>Notification to Authors (Full Papers)</td>
           <td>Friday, 3rd July 2020</td>
+        </tr>
+        <tr>
+          <td>Extended Abstract Submission Deadline</td>
+          <td>July 2020 (TBD)</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
