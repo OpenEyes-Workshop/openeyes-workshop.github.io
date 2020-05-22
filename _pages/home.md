@@ -147,7 +147,7 @@ acknowledgements: ""
           <p>Extended abstracts are limited to six pages and must be created using the <a href="https://eccv2020.eu/author-instructions/" target="_blank">official ECCV format</a>. The submission must be sent to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> by the deadline (TBD).
           </p>
           <p>
-            We will evaluate and notify authors of acceptance as soon as possible after receiving their extended abstract submission.
+            We will evaluate and notify authors of acceptance as soon as possible (evaluation on a rolling basis until the deadline) after receiving their extended abstract submission.
           </p>
         </div>
       </div>
