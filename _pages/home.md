@@ -144,7 +144,7 @@ acknowledgements: ""
           <p>
             In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ECCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
           </p>
-          <p>Extended abstracts are limited to six pages and must be created using the <a href="https://eccv2020.eu/author-instructions/" target="_blank">official ECCV format</a>. The submission must be sent to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> by the deadline (TBD).
+          <p>Extended abstracts are limited to six pages and must be created using the <a href="https://eccv2020.eu/author-instructions/" target="_blank">official ECCV format</a>. The submission must be sent to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> by the deadline (July 17th).
           </p>
           <p>
             We will evaluate and notify authors of acceptance as soon as possible (evaluation on a rolling basis until the deadline) after receiving their extended abstract submission.
@@ -206,7 +206,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Extended Abstract Submission Deadline</td>
-          <td>July 2020 (TBD)</td>
+          <td>Friday, 17th July 2020</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
