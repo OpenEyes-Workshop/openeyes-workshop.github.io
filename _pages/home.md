@@ -129,7 +129,7 @@ acknowledgements: ""
 	    Accepted papers will be published in the official ECCV Workshops proceedings and the Computer Vision Foundation (CVF) Open Access archive.
 	  </p>
 	  <p>
-	    <span style="font-weight:500;">Note:</span> Authors of previously rejected main conference submissions are also welcome to submit their work to our workshop. When doing so, you must submit the previous reviewers' comments (named as <code>previous_reviews.pdf</code>) and a letter of changes (named as <code>letter_of_changes.pdf</code>) as part of your supplementary materials to clearly demonstrate the changes made to address the comments made by previous reviewers. Re-submissions will go through the same reviewing procedure as new submissions (see previous paragraph).
+	    <span style="font-weight:500;">Note:</span> Authors of previously rejected main conference submissions are also welcome to submit their work to our workshop. When doing so, you must submit the previous reviewers' comments (named as <code>previous_reviews.pdf</code>) and a letter of changes (named as <code>letter_of_changes.pdf</code>) as part of your supplementary materials to clearly demonstrate the changes made to address the comments made by previous reviewers. Due to potential clashes with the main conference reviewing schedule, we will accept simultaneous submissions to the ECCV main conference and OpenEyes Workshop. Simultaneous submissions are otherwise disallowed.
           </p>
         </div>
       </div>
