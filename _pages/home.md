@@ -144,6 +144,9 @@ acknowledgements: ""
           <p>
             In addition to regular papers, we also invite extended abstracts of ongoing or published work (<i>e.g.</i> related papers on ECCV main track). The extended abstracts will not be published or made available to the public (we will only list titles on our website) but will rather be presented during our poster session. We see this as an opportunity for authors to promote their work to an interested audience to gather valuable feedback.
           </p>
+	  <p>
+	    Further details on how this poster session will occur online, is to be decided. In general, we will be following the main ECCV conference guidelines and organization in organizing the presentation of all posters.
+          </p>
           <p>Extended abstracts are limited to six pages and must be created using the <a href="https://eccv2020.eu/author-instructions/" target="_blank">official ECCV format</a>. The submission must be sent to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> by the deadline (July 17th).
           </p>
           <p>
