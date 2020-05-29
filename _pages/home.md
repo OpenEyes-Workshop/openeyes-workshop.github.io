@@ -34,6 +34,32 @@ acknowledgements: ""
 -->
 
 <br>
+<div class="row" id="news">
+  <div class="col-xs-12">
+    <h2>News and Updates</h2>
+    <table class="table news">
+      <tbody>
+        <tr>
+          <td>30th May</td>
+          <td>We have decided to extend the workshop paper submission deadline to Monday 15th June.</td>
+        </tr>
+        <tr>
+          <td>29th May</td>
+          <td>
+            We are proud to announce
+            <ul>
+              <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Dr. Qiang Ji</a> of Rennselaer Polytechnic Institute</li>
+              <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Dr. Enkelejda Kasneci</a> of the University of Tübingen</li>
+              <li><a href="http://mkhamis.com/" target="_blank">Prof. Dr. Mohamed Khamis</a> of the University of Glasgow</li>
+            </ul>as keynote speakers to Track 1 of our workshop!
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<br>
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Introduction</h2>
@@ -197,31 +223,43 @@ acknowledgements: ""
   <div class="col-xs-12">
     <h2>Important Dates</h2>
     <br>
+    <p>
+      Please note that all deadlines are at 11:59 PM (UTC -0), in line with the main conference.
+    </p>
+    <br>
     <table class="table table-striped">
       <tbody>
         <tr>
           <td>Full Paper Submission Deadline</td>
-          <td>Friday, 5th June 2020</td>
+          <td><s class="cancelled">Friday, 5th June 2020</s><br>
+          Monday, 15th June 2020</td>
+          <td><span class="countdown" reference="15 Jun 2020 23:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors (Full Papers)</td>
           <td>Friday, 3rd July 2020</td>
+	  <td></td>
         </tr>
         <tr>
           <td>Extended Abstract Submission Deadline</td>
           <td>Friday, 17th July 2020</td>
+          <td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
           <td>Friday, 17th July 2020</td>
+          <td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>
         </tr>
         <!--<tr id="schedule">
           <td>Extended Abstracts Deadline</td>
           <td>TBD </td>
+	  <td></td>
         </tr>-->
         <tr>
           <td>Workshop Date</td>
           <td>Sunday, 23rd August 2020</td>
+          <!--<td><span class="countdown" reference="23 Aug 2020 08:30:00 UTC"></span></td>-->
+	  <td></td>
         </tr>
       </tbody>
     </table>

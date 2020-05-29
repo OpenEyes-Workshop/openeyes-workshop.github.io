@@ -61,6 +61,31 @@ h3 {
   /*border-color: #3498db;*/
 }
 
+#news table.news {
+}
+
+#news table.news td:nth-child(1) {
+  width: 9em;
+  font-size: 0.5em;
+  font-style: italic;
+  font-weight: bold;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+#news table.news td:nth-child(2) {
+  font-size: 0.9em;
+  vertical-align: middle;
+}
+
+#dates table td:nth-child(3) {
+  text-align: right;
+  width: 10em;
+  font-size: 0.6em;
+  font-style: italic;
+  vertical-align: middle;
+}
+
 p.authors {
   margin-bottom: 5px;
   color: #808080;
