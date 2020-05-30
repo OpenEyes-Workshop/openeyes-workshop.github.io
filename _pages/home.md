@@ -48,7 +48,7 @@ acknowledgements: ""
           <td>
             We are proud to announce
             <ul>
-              <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Dr. Qiang Ji</a> of Rennselaer Polytechnic Institute</li>
+              <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Dr. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
               <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Dr. Enkelejda Kasneci</a> of the University of Tübingen</li>
               <li><a href="http://mkhamis.com/" target="_blank">Prof. Dr. Mohamed Khamis</a> of the University of Glasgow</li>
             </ul>as keynote speakers to Track 1 of our workshop!
