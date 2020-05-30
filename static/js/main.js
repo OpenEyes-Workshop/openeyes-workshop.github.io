@@ -5,12 +5,12 @@ $(document).ready(function(){
     if (diff_ms < 0) {
       return "";
     }
-    var days = Math.floor(diff_ms / 86400000)
-    diff_ms -= days * 86400000;
-    var hours = Math.floor(diff_ms / 36000000)
-    diff_ms -= hours * 3600000;
-    var mins = Math.floor(diff_ms / 60000)
-    diff_ms -= mins * 60000;
+    var days = Math.floor(diff_ms / (24 * 60 * 60 * 1000))
+    diff_ms -= days * (24 * 60 * 60 * 1000);
+    var hours = Math.floor(diff_ms / (60 * 60 * 1000))
+    diff_ms -= hours * (60 * 60 * 1000);
+    var mins = Math.floor(diff_ms / (60 * 1000))
+    diff_ms -= mins * (60 * 1000);
     var secs = Math.floor(diff_ms / 1000)
     var out_str = "";
     if (days > 0) out_str += days.toString() + "d ";
