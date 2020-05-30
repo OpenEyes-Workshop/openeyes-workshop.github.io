@@ -54,6 +54,10 @@ acknowledgements: ""
             </ul>as keynote speakers to Track 1 of our workshop!
           </td>
         </tr>
+        <tr>
+          <td>19th May</td>
+          <td><a href="https://eccv2020.eu/update-on-coronavirus/" target="_blank">ECCV is going virtual</a>, and thus so is OpenEyes 2020. We will announce further details as they become available to us. In general, we will be run in the same fashion as the main conference and other ECCV workshops.</td>
+        </tr>
       </tbody>
     </table>
   </div>
