@@ -46,7 +46,7 @@ acknowledgements: ""
             <ul>
               <li><a href="http://faculty.sites.uci.edu/khargonekar/" target="_blank">Prof. Dr. Pramod Khargonekar</a> of University of California, Irvine</li>
               <li><a href="http://ilab.usc.edu/itti/" target="_blank">Prof. Dr. Laurent Itti</a> of University of Southern California</li>
-            </ul>as keynote speakers to Track 2 of our workshop!
+            </ul>as keynote speakers to Part 2 of our workshop!
           </td>
         </tr>
         <tr>
@@ -61,7 +61,7 @@ acknowledgements: ""
               <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Dr. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
               <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Dr. Enkelejda Kasneci</a> of the University of Tübingen</li>
               <li><a href="http://mkhamis.com/" target="_blank">Prof. Dr. Mohamed Khamis</a> of the University of Glasgow</li>
-            </ul>as keynote speakers to Track 1 of our workshop!
+            </ul>as keynote speakers to Part 1 of our workshop!
           </td>
         </tr>
         <tr>
@@ -304,7 +304,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <b>Track 1 (AM): Gaze Estimation and Prediction in the Wild</b>
+    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
   </div>
 </div>
 <br>
@@ -360,7 +360,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <b>Track 2 (PM): Eye Tracking for VR and AR</b>
+    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
   </div>
 </div>
 <br>
@@ -463,7 +463,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <b>Track 1 (AM): Gaze Estimation and Prediction in the Wild</b>
+    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
   </div>
 </div>
 <br>
@@ -485,7 +485,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <b>Track 2 (PM): Eye Tracking for VR and AR</b>
+    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
   </div>
 </div>
 <br>
