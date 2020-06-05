@@ -40,13 +40,23 @@ acknowledgements: ""
     <table class="table news">
       <tbody>
         <tr>
+          <td>4th June</td>
+          <td>
+            We are happy to announce
+            <ul>
+              <li><a href="http://faculty.sites.uci.edu/khargonekar/" target="_blank">Prof. Dr. Pramod Khargonekar</a> of University of California, Irvine</li>
+              <li><a href="http://ilab.usc.edu/itti/" target="_blank">Prof. Dr. Laurent Itti</a> of University of Southern California</li>
+            </ul>as keynote speakers to Track 2 of our workshop!
+          </td>
+        </tr>
+        <tr>
           <td>30th May</td>
           <td>We have decided to extend the workshop paper submission deadline to Monday 15th June.</td>
         </tr>
         <tr>
           <td>29th May</td>
           <td>
-            We are proud to announce
+            We are happy to announce
             <ul>
               <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Dr. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
               <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Dr. Enkelejda Kasneci</a> of the University of Tübingen</li>
