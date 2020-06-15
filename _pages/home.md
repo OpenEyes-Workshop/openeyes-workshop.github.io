@@ -245,9 +245,11 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Full Paper Submission Deadline</td>
-          <td><s class="cancelled">Friday, 5th June 2020</s><br>
-          Monday, 15th June 2020</td>
-          <td><span class="countdown" reference="15 Jun 2020 23:59:59 UTC"></span></td>
+          <td>
+		  <s class="cancelled">Friday, 5th June 2020</s><br>
+		  <s class="cancelled">Monday, 15th June 2020</s><br>
+          Tuesday, 16th June 2020</td>
+          <td><span class="countdown" reference="16 Jun 2020 23:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors (Full Papers)</td>
