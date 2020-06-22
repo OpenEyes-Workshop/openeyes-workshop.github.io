@@ -1,7 +1,7 @@
 $(document).ready(function(){
   function diff_now(reference) {
     var now = new Date();
-    var diff_ms = Math.abs(now - reference);
+    var diff_ms = now - reference;
     if (diff_ms < 0) {
       return "";
     }
