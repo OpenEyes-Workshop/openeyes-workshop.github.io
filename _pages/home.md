@@ -255,7 +255,7 @@ acknowledgements: ""
         <tr>
           <td>Notification to Authors (Full Papers)</td>
 		  <td>
-          <s class="cancelled">Friday, 3rd July 2020</s>br>
+          <s class="cancelled">Friday, 3rd July 2020</s><br>
           Wednesday, 8th July 2020
 		  </td>
 	  <td></td>
