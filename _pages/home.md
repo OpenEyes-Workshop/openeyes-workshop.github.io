@@ -50,7 +50,7 @@ acknowledgements: ""
             <ul>
               <li><a href="http://faculty.sites.uci.edu/khargonekar/" target="_blank">Prof. Pramod Khargonekar</a> of University of California, Irvine</li>
               <li><a href="http://ilab.usc.edu/itti/" target="_blank">Prof. Laurent Itti</a> of University of Southern California</li>
-            </ul>as keynote speakers to Part 2 of our workshop!
+            </ul>as keynote speakers to our workshop!
           </td>
         </tr>
         <tr>
@@ -65,7 +65,7 @@ acknowledgements: ""
               <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
               <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Enkelejda Kasneci</a> of the University of Tübingen</li>
               <li><a href="http://mkhamis.com/" target="_blank">Prof. Mohamed Khamis</a> of the University of Glasgow</li>
-            </ul>as keynote speakers to Part 1 of our workshop!
+            </ul>as keynote speakers to our workshop!
           </td>
         </tr>
         <tr>
@@ -300,25 +300,7 @@ acknowledgements: ""
 </div>
 <div class="row speaker">
   <div class="col-xs-12">
-    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
-  </div>
-</div>
-<div class="row speaker">
-  <div class="col-sm-3 speaker-pic">
-    <a href="https://www.ecse.rpi.edu/~qji/">
-      <img class="people-pic" src="{{ "/static/img/people/qj.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.ecse.rpi.edu/~qji/">Qiang Ji</a>
-      <h6>Rensselaer Polytechnic Institute</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <!--<h3>TITLE</h3><br>-->
-    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
-    <b>Biography</b><p class="speaker-bio">
-    Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
-    </p>
+    <b>Morning Session</b>
   </div>
 </div>
 <div class="row speaker">
@@ -361,7 +343,7 @@ acknowledgements: ""
 </div>
 <div class="row speaker">
   <div class="col-xs-12">
-    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
+    <b>Afternoon Session</b>
   </div>
 </div>
 <div class="row speaker">
@@ -402,6 +384,24 @@ Khargonekar's current research and teaching interests include systems and contro
     </p>
   </div>
 </div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.ecse.rpi.edu/~qji/">
+      <img class="people-pic" src="{{ "/static/img/people/qj.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.ecse.rpi.edu/~qji/">Qiang Ji</a>
+      <h6>Rensselaer Polytechnic Institute</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <!--<h3>TITLE</h3><br>-->
+    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <b>Biography</b><p class="speaker-bio">
+    Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
+    </p>
+  </div>
+</div>
 <br>
 
 
@@ -414,7 +414,7 @@ Khargonekar's current research and teaching interests include systems and contro
 
 <div class="row">
   <div class="col-xs-12">
-    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
+    <b>Gaze Estimation and Prediction in the Wild</b>
   </div>
 </div>
 <br>
@@ -470,7 +470,7 @@ Khargonekar's current research and teaching interests include systems and contro
 
 <div class="row">
   <div class="col-xs-12">
-    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
+    <b>Eye Tracking for VR and AR</b>
   </div>
 </div>
 <br>
@@ -573,7 +573,7 @@ Khargonekar's current research and teaching interests include systems and contro
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
+    <b>Gaze Estimation and Prediction in the Wild</b>
   </div>
 </div>
 <br>
@@ -595,7 +595,7 @@ Khargonekar's current research and teaching interests include systems and contro
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
+    <b>Eye Tracking for VR and AR</b>
   </div>
 </div>
 <br>
