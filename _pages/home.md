@@ -292,10 +292,113 @@ acknowledgements: ""
 </div><br>
 
 
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Keynote Speakers</h2>
-    <p>TBD</p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-xs-12">
+    <b>Part 1 (AM): Gaze Estimation and Prediction in the Wild</b>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.ecse.rpi.edu/~qji/">
+      <img class="people-pic" src="{{ "/static/img/people/qj.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.ecse.rpi.edu/~qji/">Qiang Ji</a>
+      <h6>Rensselaer Polytechnic Institute</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <!--<h3>TITLE</h3><br>-->
+    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <b>Biography</b><p class="speaker-bio">
+    Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
+    </p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci">
+      <img class="people-pic" src="{{ "/static/img/people/ek.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci">Enkelejda Kasneci</a>
+      <h6>University of Tübingen</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <!--<h3>TITLE</h3><br>-->
+    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <b>Biography</b><p class="speaker-bio">
+    Enkelejda Kasneci is a Professor of Computer Science at the University of Tübingen, Germany, where she leads the Human-Computer Interaction Lab. As a BOSCH scholar, she received her M.Sc. degree in Computer Science from the University of Stuttgart in 2007. In 2013, she received her PhD in Computer Science from the University of Tübingen. For her PhD research, she was awarded the research prize of the Federation Südwestmetall in 2014. From 2013 to 2015, she was a postdoctoral researcher and a Margarete-von-Wrangell Fellow at the University of Tübingen. Her research evolves around the application of machine learning for intelligent and perceptual human-computer interaction. She served as academic editor for PlosOne and as a TPC member and reviewer for several major conferences and journals.
+    </p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="http://mkhamis.com/">
+      <img class="people-pic" src="{{ "/static/img/people/mk.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://mkhamis.com/">Mohamed Khamis</a>
+      <h6>University of Glasgow</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <h3>The interplay between Privacy, Security and Eye Tracking in the Wild: Opportunities and Challenges</h3><br>
+    <b>Abstract</b><p class="speaker-abstract">
+    Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
+    </p>
+    <b>Biography</b><p class="speaker-bio">
+    Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed organized workshops at UbiComp 2016, CHI 2018, and CHI 2019. He is a program committee member for CHI 2020, and was general chair for PerDis 2019.
+    </p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-xs-12">
+    <b>Part 2 (PM): Eye Tracking for VR and AR</b>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="http://faculty.sites.uci.edu/khargonekar/">
+      <img class="people-pic" src="{{ "/static/img/people/pk.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://faculty.sites.uci.edu/khargonekar/">Pramod Khargonekar</a>
+      <h6>University of Califonia, Irvine</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <!--<h3>TITLE</h3><br>-->
+    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <b>Biography</b><p class="speaker-bio">
+    Pramod Khargonekar received B. Tech. Degree in electrical engineering in 1977 from the Indian Institute of Technology, Bombay, India, and M.S. degree in mathematics in 1980 and Ph.D. degree in electrical engineering in 1981 from the University of Florida, respectively.  He has been on faculty at the University of Florida, University of Minnesota, The University of Michigan, and the University of California, Irvine. In June 2016, he assumed his current position as Vice Chancellor for Research and Distinguished Professor of Electrical Engineering and Computer Science at the University of California, Irvine.
+Khargonekar's current research and teaching interests include systems and control theory, machine learning, and applications to smart electric grid and neural engineering. He has authored more than 160 refereed journal publications and 200 conference publications, and has supervised 38 doctoral students. He has received numerous awards and have served in academia and industry in many roles, the details of which can be found on <a href="http://faculty.sites.uci.edu/khargonekar/biographical-sketch" target="_blank">his webpage</a>.
+    </p>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="http://ilab.usc.edu/itti/">
+      <img class="people-pic" src="{{ "/static/img/people/li.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://ilab.usc.edu/itti/">Laurent Itti</a>
+      <h6>University of Southern California</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <!--<h3>TITLE</h3><br>-->
+    <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <b>Biography</b><p class="speaker-bio">
+    <!-- Sourced from http://ibt.usc.edu/research-faculty/laurent-itti-phd/ -->
+    Laurent Itti received his M.S. degree in Image Processing from the Ecole Nationale Superieure des Telecommunications (Paris, France) in 1994, and his Ph.D. in Computation and Neural Systems from Caltech (Pasadena, CA) in 2000. He has since then been an Assistant, Associate, and now Full Professor of Computer Science, Psychology, and Neuroscience at USC. Dr. Itti’s research interests are in biologically-inspired computational vision, in particular in the domains of visual attention, scene understanding, control of eye movements, and surprise. This basic research has technological applications to, among others, video compression, target detection, and robotics. Dr. Itti has co-authored over 150 publications in peer-reviewed journals, books and conferences, three patents, and several open-source neuromorphic vision software toolkits.
+    </p>
   </div>
 </div>
 <br>
