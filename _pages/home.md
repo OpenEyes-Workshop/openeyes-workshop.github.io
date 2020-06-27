@@ -40,6 +40,10 @@ acknowledgements: ""
     <table class="table news">
       <tbody>
         <tr>
+          <td>28th June</td>
+          <td>Due to time limitations and logistical restrictions, we have decided not to host extend abstracts at this year's OpenEyes.</td>
+        </tr>
+        <tr>
           <td>4th June</td>
           <td>
             We are happy to announce
@@ -175,6 +179,7 @@ acknowledgements: ""
       </div>
     </div>
     <br>
+    <!--
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-ea" style="cursor:pointer;">
         <h3 style="margin:0;">Extended Abstracts</h3>
@@ -196,6 +201,7 @@ acknowledgements: ""
       </div>
     </div>
     <br>
+    -->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
         <h3 style="margin:0;">OpenEDS 2020 Challenges</h3>
@@ -259,11 +265,6 @@ acknowledgements: ""
           Wednesday, 8th July 2020
 		  </td>
 	  <td></td>
-        </tr>
-        <tr>
-          <td>Extended Abstract Submission Deadline</td>
-          <td>Friday, 17th July 2020</td>
-          <td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
