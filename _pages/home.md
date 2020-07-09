@@ -268,8 +268,10 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>Friday, 17th July 2020</td>
-          <td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>
+          <!--<td>Friday, 17th July 2020</td>-->
+          <!--<td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>-->
+          <td>To be confirmed</td>
+          <td></td>
         </tr>
         <tr>
           <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
