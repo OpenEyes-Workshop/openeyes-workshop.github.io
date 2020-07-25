@@ -226,19 +226,6 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <!--
-    <br>
-    <div class="panel panel-default">
-      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
-        <h3 style="margin:0;">Accepted ECCV/CVPR Papers</h3>
-      </div>
-      <div id="call-poster" class="panel-collapse collapse" data-parent="#call">
-        <div class="panel-body">
-          Relevant papers that were accepted at the main conference (ICCV 2019) or at CVPR 2019 are welcome to be presented during our poster session to increase the exposure of your work and foster discussion in the community. Please send a PDF document of your camera-ready paper to <a href="mailto:openeyes.workshop@gmail.com">openeyes.workshop@gmail.com</a> at any time to register your presence.
-        </div>
-      </div>
-    </div>
-    -->
   </div>
 </div>
 <br>
@@ -271,11 +258,9 @@ acknowledgements: ""
 	  <td></td>
         </tr>
         <tr>
-          <td>Camera-Ready Deadline</td>
-          <!--<td>Friday, 17th July 2020</td>-->
-          <!--<td><span class="countdown" reference="17 Jul 2020 23:59:59 UTC"></span></td>-->
-          <td>To be confirmed</td>
-          <td></td>
+          <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
+	  <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
+	  <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
