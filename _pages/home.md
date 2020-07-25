@@ -40,6 +40,10 @@ acknowledgements: ""
     <table class="table news">
       <tbody>
         <tr>
+          <td>20th July</td>
+          <td>We are happy to announce <a href="https://www.cc.gatech.edu/~thad/" target="_blank">Prof. Thad Starner</a> as a keynote speaker to our workshop!</td>
+        </tr>
+        <tr>
           <td>28th June</td>
           <td>Due to time limitations and logistical restrictions, we have decided not to host extend abstracts at this year's OpenEyes.</td>
         </tr>
@@ -163,7 +167,7 @@ acknowledgements: ""
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-papers" style="cursor:pointer;">
         <h3 style="margin:0;">Full Workshop Papers</h3>
       </div>
-      <div id="call-papers" class="panel-collapse collapse in" data-parent="#call">
+      <div id="call-papers" class="panel-collapse collapse" data-parent="#call">
         <div class="panel-body">
           <p>
 	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers (14-page <a href="https://eccv2020.eu/author-instructions/" target="_blank">ECCV format</a>) to our workshop, to be presented at a poster session upon acceptance. All submissions will go through a double-blind review process. All contributions must be submitted (along with supplementary materials, if any) at
@@ -318,9 +322,16 @@ acknowledgements: ""
   <div class="col-md-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
-    <b>Biography</b><p class="speaker-bio">
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#ek-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="ek-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">
     Enkelejda Kasneci is a Professor of Computer Science at the University of Tübingen, Germany, where she leads the Human-Computer Interaction Lab. As a BOSCH scholar, she received her M.Sc. degree in Computer Science from the University of Stuttgart in 2007. In 2013, she received her PhD in Computer Science from the University of Tübingen. For her PhD research, she was awarded the research prize of the Federation Südwestmetall in 2014. From 2013 to 2015, she was a postdoctoral researcher and a Margarete-von-Wrangell Fellow at the University of Tübingen. Her research evolves around the application of machine learning for intelligent and perceptual human-computer interaction. She served as academic editor for PlosOne and as a TPC member and reviewer for several major conferences and journals.
-    </p>
+        </p>
+      </div></div>
+    </div>
   </div>
 </div>
 <div class="row speaker">
@@ -338,9 +349,16 @@ acknowledgements: ""
     <b>Abstract</b><p class="speaker-abstract">
     Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
     </p>
-    <b>Biography</b><p class="speaker-bio">
-    Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed organized workshops at UbiComp 2016, CHI 2018, and CHI 2019. He is a program committee member for CHI 2020, and was general chair for PerDis 2019.
-    </p>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#mk-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="mk-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">
+          Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed organized workshops at UbiComp 2016, CHI 2018, and CHI 2019. He is a program committee member for CHI 2020, and was general chair for PerDis 2019.
+        </p>
+      </div></div>
+    </div>
   </div>
 </div>
 <div class="row speaker">
@@ -361,10 +379,17 @@ acknowledgements: ""
   <div class="col-md-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
-    <b>Biography</b><p class="speaker-bio">
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#pk-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="pk-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">
     Pramod Khargonekar received B. Tech. Degree in electrical engineering in 1977 from the Indian Institute of Technology, Bombay, India, and M.S. degree in mathematics in 1980 and Ph.D. degree in electrical engineering in 1981 from the University of Florida, respectively.  He has been on faculty at the University of Florida, University of Minnesota, The University of Michigan, and the University of California, Irvine. In June 2016, he assumed his current position as Vice Chancellor for Research and Distinguished Professor of Electrical Engineering and Computer Science at the University of California, Irvine.
 Khargonekar's current research and teaching interests include systems and control theory, machine learning, and applications to smart electric grid and neural engineering. He has authored more than 160 refereed journal publications and 200 conference publications, and has supervised 38 doctoral students. He has received numerous awards and have served in academia and industry in many roles, the details of which can be found on <a href="http://faculty.sites.uci.edu/khargonekar/biographical-sketch" target="_blank">his webpage</a>.
-    </p>
+        </p>
+      </div></div>
+    </div>
   </div>
 </div>
 <div class="row speaker">
@@ -380,10 +405,16 @@ Khargonekar's current research and teaching interests include systems and contro
   <div class="col-md-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
-    <b>Biography</b><p class="speaker-bio">
-    <!-- Sourced from http://ibt.usc.edu/research-faculty/laurent-itti-phd/ -->
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#li-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="li-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">
     Laurent Itti received his M.S. degree in Image Processing from the Ecole Nationale Superieure des Telecommunications (Paris, France) in 1994, and his Ph.D. in Computation and Neural Systems from Caltech (Pasadena, CA) in 2000. He has since then been an Assistant, Associate, and now Full Professor of Computer Science, Psychology, and Neuroscience at USC. Dr. Itti’s research interests are in biologically-inspired computational vision, in particular in the domains of visual attention, scene understanding, control of eye movements, and surprise. This basic research has technological applications to, among others, video compression, target detection, and robotics. Dr. Itti has co-authored over 150 publications in peer-reviewed journals, books and conferences, three patents, and several open-source neuromorphic vision software toolkits.
-    </p>
+        </p>
+      </div></div>
+    </div>
   </div>
 </div>
 <div class="row speaker">
@@ -397,14 +428,46 @@ Khargonekar's current research and teaching interests include systems and contro
     </div>
   </div>
   <div class="col-md-9">
-	<h3>A Bayesian Framework for Robust and Generalizable Eye Tracking</h3><br>
-	<b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
-	<br><br>
-	Specifically, the proposed method consists of a Bayesian Convolutional Neural Network (BCNN) to capture the probabilistic relationships between eye appearance and its landmarks, and a geometric model to estimate eye gaze from the eye landmarks.  Under a Bayesian framework to integrate the two modules, given an eye image, the BCNN module outputs the probability distribution of the eye landmarks and their uncertainties, based on which the geometric model performs a Bayesian inference of the eye gaze by marginalizing out the eye landmarks, enabling eye gaze estimation without explicit eye landmark detection.  Compared to the point-based eye landmark estimation methods, our model not only can generalize better, but is also more robust under challenging real world conditions.  In addition, we extend the single-stage model to multi-stage, yielding the cascade BCNN.   The cascade architecture allows feeding the uncertainty information from current stage to the next stage to progressively improve the gaze estimation accuracy.  Experiments show the proposed method, while achieving comparable within-dataset performance, outperforms SoA methods in both it’s generalization capability across datasets, and in its robustness for low quality and challenging datasets.
-	</p>
-    <b>Biography</b><p class="speaker-bio">
-    Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
+    <h3>A Bayesian Framework for Robust and Generalizable Eye Tracking</h3><br>
+    <b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
+    <br><br>
+    Specifically, the proposed method consists of a Bayesian Convolutional Neural Network (BCNN) to capture the probabilistic relationships between eye appearance and its landmarks, and a geometric model to estimate eye gaze from the eye landmarks.  Under a Bayesian framework to integrate the two modules, given an eye image, the BCNN module outputs the probability distribution of the eye landmarks and their uncertainties, based on which the geometric model performs a Bayesian inference of the eye gaze by marginalizing out the eye landmarks, enabling eye gaze estimation without explicit eye landmark detection.  Compared to the point-based eye landmark estimation methods, our model not only can generalize better, but is also more robust under challenging real world conditions.  In addition, we extend the single-stage model to multi-stage, yielding the cascade BCNN.   The cascade architecture allows feeding the uncertainty information from current stage to the next stage to progressively improve the gaze estimation accuracy.  Experiments show the proposed method, while achieving comparable within-dataset performance, outperforms SoA methods in both it’s generalization capability across datasets, and in its robustness for low quality and challenging datasets.
     </p>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#qj-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="qj-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">
+          Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
+        </p>
+      </div></div>
+    </div>
+  </div>
+</div>
+<div class="row speaker">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.cc.gatech.edu/home/thad/">
+      <img class="people-pic" src="{{ "/static/img/people/ts.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cc.gatech.edu/home/thad/">Thad Starner</a>
+      <h6>Georgia Tech</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+	<h3>Eye Interfaces for Augmented Reality Eyeglasses</h3><br>
+	<b>Abstract</b><p class="speaker-abstract">
+	Eye interfaces should be reliable, scalable, consistent, discoverable, provide the user with feedback on performace, and be designed to indicate how they should be used. Combining these human computer interaction (HCI) fundamentals with machine learning and perception can point to useful and usable interfaces, in sometimes unexpected ways.  This talk explores interfaces that have proved the most promising for augmented reality eyeglasses, focusing on eye gestures where tracking the relative motion of the eye is more important than absolute position. Such interfaces are surprisingly robust and have even been sensed using electrooculography (EOG) with three electrodes in the nose bridge of a Jins Meme.
+	</p>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#ts-bio" style="cursor:pointer;text-align:center">
+        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="ts-bio" class="panel-collapse collapse"><div class="panel-body">
+        <p class="speaker-bio">Thad Starner is a Professor of Computing at Georgia Tech. He is also a Staff Research Scientist at Google, where he was one of the architects of Google Glass. In 1990, Starner coined the term "augmented reality" to describe the types of interfaces he envisioned for the future, and he has been using a head worn display as part of his daily life since 1993. He is a founder of the annual ACM International Symposium on Wearable Computers, now in its 24th year. Dr. Starner has produced over 500 papers and presentations on his research on interfaces and machine learning and has 95 issued United States utility patents. He was elected to the CHI Academy in 2017 and is always looking for a good game of table tennis.</p>
+      </div></div>
+    </div>
   </div>
 </div>
 <br>
