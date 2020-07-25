@@ -274,20 +274,15 @@ acknowledgements: ""
 	  <td></td>
         </tr>
         <tr>
-          <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
-	  <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
-	  <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
-        </tr>
-        <tr>
           <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
           <td>Friday, 31st July 2020</td>
           <td><span class="countdown" reference="31 Jul 2020 23:59:59 UTC"></span></td>
         </tr>
-        <!--<tr id="schedule">
-          <td>Extended Abstracts Deadline</td>
-          <td>TBD </td>
-	  <td></td>
-        </tr>-->
+        <tr>
+          <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
+	  <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
+	  <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
+        </tr>
         <tr>
           <td>Workshop Date</td>
           <td>Sunday, 23rd August 2020</td>
