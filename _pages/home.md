@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
     <br>
     <center>Sunday, August 23 2020</center>
-    <center>AM session: 8:00am to 11:00pm (UTC)</center>
+    <center>AM session: 8:00am - 11:00pm (UTC)</center>
     <center>PM session: 7:00pm - 10:00pm (UTC)</center>
     <br>
     <center>Location: <b>online</b></center>
