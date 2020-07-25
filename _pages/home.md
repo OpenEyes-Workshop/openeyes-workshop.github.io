@@ -15,8 +15,12 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>OpenEyes: Eye Gaze in AR, VR, and in the Wild</h1></center>
     <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
-    <!--<center>Sunday October 27 2019, 8:30am - 12:50pm</center>-->
-    <!--<center>Location: <b>Room 318 A</b></center>-->
+    <br>
+    <center>Sunday, August 23 2020</center>
+    <center>AM session: 8:00am to 11:00pm (UTC)</center>
+    <center>PM session: 7:00pm - 10:00pm (UTC)</center>
+    <br>
+    <center>Location: <b>online</b></center>
   </div>
 </div>
 
@@ -78,6 +82,18 @@ acknowledgements: ""
         </tr>
       </tbody>
     </table>
+  </div>
+</div>
+
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <img class="banner" src="{{ "/static/img/banner_with_gaze.jpg" | prepend:site.baseurl }}">
+    <span style="display:block;font-size:0.8em;text-align:right;">
+    Image credits to
+    <a href="https://www.flickr.com/photos/blieusong/30681394127" target="_blank">Benh Lieu Song</a>
+    and
+    <a href="https://pxhere.com/en/photo/412438" target="_blank">Alessandro Caproni</a>
+    </span>
   </div>
 </div>
 
