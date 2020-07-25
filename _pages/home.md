@@ -634,6 +634,40 @@ Khargonekar's current research and teaching interests include systems and contro
 </div>
 <br>
 
+<div class="row" id="programcommittee">
+  <div class="col-xs-12">
+    <h2>Program Committee</h2>
+    <p>We thank our reviewers for their time and care in reviewing the submissions to OpenEyes 2020.</p>
+  </div>
+  <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://people.inf.ethz.ch/mbace/">Mihai Bâce</a><h6>ETH Zurich</h6></div>
+    <div class="people-name"><a target="_blank" href="http://mcbuehler.ch/">Marcel Bühler</a><h6>ETH Zurich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><h6>University of Birmingham</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.linkedin.com/in/jixu-chen-39133912/">Jixu Chen</a><h6>Facebook</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.cc.gatech.edu/~echong8/">Eunji Chong</a><h6>Georgia Tech</h6></div>
+  </div>
+  <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://www.tobiasfischer.info/">Tobias Fischer</a><h6>Queensland University of Technology</h6></div>
+    <div class="people-name"><a target="_blank" href="https://scholar.google.com/citations?user=MpnoKWcAAAAJ&hl=en">Alexander Fix</a><h6>Facebook Reality Labs</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/gebhardt/">Christoph Gebhardt</a><h6>ETH Zurich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/hilliges/">Otmar Hilliges</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="http://www.inf.u-szeged.hu/~horanyi/">Nora Horanyi</a><h6>University of Birmingham</h6></div>
+  </div>
+  <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://userweb.cs.txstate.edu/~ok11/">Oleg Komogortsev</a><h6>Texas State University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.cs.bham.ac.uk/~leonarda/">Aleš Leonardis</a><h6>University of Birmingham</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/spark/">Seonwook Park</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://scholar.google.co.kr/citations?user=18fTep8AAAAJ&hl=en">Abhishek Sharma</a><h6>Facebook Reality Labs</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/g.clemson.edu/yiru-shen">Yiru Shen</a><h6>Facebook Reality Labs</h6></div>
+  </div>
+  <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://scholar.google.com/citations?user=Tz_jwsQAAAAJ&hl=en">Sachin Talathi</a><h6>Facebook Reality Labs</h6></div>
+    <div class="people-name"><a target="_blank" href="https://ait.ethz.ch/people/zhang/">Xucong Zhang</a><h6>ETH Zürich</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.linkedin.com/in/zheng-yufeng/">Yufeng Zheng</a><h6>ETH Zürich</h6></div>
+  </div>
+</div>
+<br>
+
 <div class="row" id="sponsors">
   <div class="col-xs-12">
     <h2>Workshop sponsored by:</h2>
