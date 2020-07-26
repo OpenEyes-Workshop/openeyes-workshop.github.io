@@ -303,7 +303,7 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	  <th>Time in UTC</th>
-	  <th>Start Time in UTC<span class="tz-offset"></span></th>
+	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b></th>
           <th>Item</th>
         </tr>
       </thead>
@@ -346,7 +346,7 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	  <th>Time in UTC</th>
-	  <th>Start Time in UTC<span class="tz-offset"></span></th>
+	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b></th>
           <th>Item</th>
         </tr>
       </thead>
@@ -383,6 +383,15 @@ acknowledgements: ""
         </tr>
       </tbody>
      </table>
+     <span class="disclaimer">
+     * This time is calculated to be in your computer's reported time zone.
+     <br>
+     For example, those in Los Angeles may see UTC-7,
+     <br>
+     while those in Berlin may see UTC+2.
+     <br>
+     <br>
+     Please note that there may be differences to your actual time zone.</span>
   </div>
 </div><br>
 
