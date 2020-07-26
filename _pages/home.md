@@ -416,7 +416,7 @@ acknowledgements: ""
       <h6>University of Tübingen</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
@@ -441,7 +441,7 @@ acknowledgements: ""
       <h6>University of Glasgow</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
     <h3>The interplay between Privacy, Security and Eye Tracking in the Wild: Opportunities and Challenges</h3><br>
     <b>Abstract</b><p class="speaker-abstract">
     Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
@@ -473,7 +473,7 @@ acknowledgements: ""
       <h6>University of Califonia, Irvine</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
@@ -499,7 +499,7 @@ Khargonekar's current research and teaching interests include systems and contro
       <h6>University of Southern California</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
     <!--<h3>TITLE</h3><br>-->
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
@@ -524,7 +524,7 @@ Khargonekar's current research and teaching interests include systems and contro
       <h6>Rensselaer Polytechnic Institute</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
     <h3>A Bayesian Framework for Robust and Generalizable Eye Tracking</h3><br>
     <b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
     <br><br>
@@ -552,7 +552,7 @@ Khargonekar's current research and teaching interests include systems and contro
       <h6>Georgia Tech</h6>
     </div>
   </div>
-  <div class="col-md-9">
+  <div class="col-sm-9">
 	<h3>Eye Interfaces for Augmented Reality Eyeglasses</h3><br>
 	<b>Abstract</b><p class="speaker-abstract">
 	Eye interfaces should be reliable, scalable, consistent, discoverable, provide the user with feedback on performace, and be designed to indicate how they should be used. Combining these human computer interaction (HCI) fundamentals with machine learning and perception can point to useful and usable interfaces, in sometimes unexpected ways.  This talk explores interfaces that have proved the most promising for augmented reality eyeglasses, focusing on eye gestures where tracking the relative motion of the eye is more important than absolute position. Such interfaces are surprisingly robust and have even been sensed using electrooculography (EOG) with three electrodes in the nose bridge of a Jins Meme.
