@@ -303,7 +303,7 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	  <th>Time in UTC</th>
-	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b></th>
+	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b><br><span class="tz-subtext">(probably your time zone)</span></th>
           <th>Item</th>
         </tr>
       </thead>
@@ -346,7 +346,7 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	  <th>Time in UTC</th>
-	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b></th>
+	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b><br><span class="tz-subtext">(probably your time zone)</span></th>
           <th>Item</th>
         </tr>
       </thead>

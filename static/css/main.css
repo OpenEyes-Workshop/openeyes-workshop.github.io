@@ -311,6 +311,11 @@ span.award-other img {
   text-align: right;
 }
 
+#schedule span.tz-subtext {
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
 .table.schedule tr.noline td {
   border-top: none;
 }
