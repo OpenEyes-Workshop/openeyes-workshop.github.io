@@ -452,7 +452,7 @@ acknowledgements: ""
       </div>
       <div id="mk-bio" class="panel-collapse collapse"><div class="panel-body">
         <p class="speaker-bio">
-          Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed organized workshops at UbiComp 2016, CHI 2018, and CHI 2019. He is a program committee member for CHI 2020, and was general chair for PerDis 2019.
+		Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK where he leads a research team in Human-Centered Security. He received his PhD from Ludwig Maximilian University of Munich. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed is a program committee member for CHI since 2019, an editorial board member of the Journal on Human Computer Studies. His work has been funded by the Royal Society of Edinburgh.
         </p>
       </div></div>
     </div>
