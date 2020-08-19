@@ -302,7 +302,7 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	  <th>Time in UTC</th>
+	  <th>Time in UTC+1</th>
 	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b><br><span class="tz-subtext">(probably your time zone)</span></th>
           <th>Item</th>
         </tr>
@@ -345,7 +345,7 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	  <th>Time in UTC</th>
+	  <th>Time in UTC+1</th>
 	  <th>Start Time in UTC<span class="tz-offset"></span><b>*</b><br><span class="tz-subtext">(probably your time zone)</span></th>
           <th>Item</th>
         </tr>
