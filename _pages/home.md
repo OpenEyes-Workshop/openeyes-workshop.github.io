@@ -17,8 +17,8 @@ acknowledgements: ""
     <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
     <br>
     <center>Sunday, August 23 2020</center>
-    <center>AM session: 8:00am - 11:00pm (UTC)</center>
-    <center>PM session: 7:00pm - 10:00pm (UTC)</center>
+    <center>AM session: 8:00am - 11:00pm (UTC+1)</center>
+    <center>PM session: 7:00pm - 10:00pm (UTC+1)</center>
     <br>
     <center>Location: <b>online</b></center>
   </div>
@@ -298,7 +298,7 @@ acknowledgements: ""
   <div class="col-xs-12">
      <h2>Workshop Schedule</h2>
      <br>
-     <b>AM session (8:00 - 11:00 UTC)</b>
+     <b>AM session (8:00 - 11:00 UTC+1)</b>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -310,38 +310,38 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>8:00am - 8:05am</td>
-          <td class="to-local-time">23 Aug 2020 08:00:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 07:00:00 UTC</td>
           <td>Welcome and Opening Remarks</td>
         </tr>
         <tr>
           <td>8:05am - 8:45am</td>
-          <td class="to-local-time">23 Aug 2020 08:05:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 07:05:00 UTC</td>
           <td>Talk by Enkelejda Kasneci</td>
         </tr>
         <tr>
           <td>8:45am - 9:25am</td>
-          <td class="to-local-time">23 Aug 2020 08:45:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 07:45:00 UTC</td>
           <td>Talk by Mohamed Khamis</td>
         </tr>
         <tr>
           <td>9:25am - 10:25am</td>
-          <td class="to-local-time">23 Aug 2020 09:25:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 08:25:00 UTC</td>
           <td>Workshop Paper Talks</td>
         </tr>
         <tr>
           <td>10:25am - 10:30am</td>
-          <td class="to-local-time">23 Aug 2020 10:25:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 09:25:00 UTC</td>
           <td>Introduction to the OpenEDS 2020 Challenges</td>
         </tr>
         <tr>
           <td>10:30am - 11:00am</td>
-          <td class="to-local-time">23 Aug 2020 10:30:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 09:30:00 UTC</td>
           <td>Talks from the Challenge Winners</td>
         </tr>
       </tbody>
      </table>
      <br>
-     <b>PM session (19:00 - 22:00 UTC)</b>
+     <b>PM session (19:00 - 22:00 UTC+1)</b>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -353,32 +353,32 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>7:00pm - 7:40pm</td>
-          <td class="to-local-time">23 Aug 2020 19:00:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 18:00:00 UTC</td>
           <td>Talk by Pramod Khargonekar</td>
         </tr>
         <tr>
           <td>7:40pm - 8:20pm</td>
-          <td class="to-local-time">23 Aug 2020 19:40:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 18:40:00 UTC</td>
           <td>Talk by Laurent Itti</td>
         </tr>
         <tr>
           <td>8:20pm - 9:00pm</td>
-          <td class="to-local-time">23 Aug 2020 20:20:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 19:20:00 UTC</td>
           <td>Talk by Qiang Ji</td>
         </tr>
         <tr>
           <td>9:00pm - 9:40pm</td>
-          <td class="to-local-time">23 Aug 2020 21:00:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 20:00:00 UTC</td>
           <td>Talk by Thad Starner</td>
         </tr>
         <tr>
           <td>9:40pm - 9:50pm</td>
-          <td class="to-local-time">23 Aug 2020 21:40:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 20:40:00 UTC</td>
           <td>Award Ceremony</td>
         </tr>
         <tr>
           <td>9:50pm - 10:00pm</td>
-          <td class="to-local-time">23 Aug 2020 21:50:00 UTC</td>
+          <td class="to-local-time">23 Aug 2020 20:50:00 UTC</td>
           <td>Closing Remarks</td>
         </tr>
       </tbody>
