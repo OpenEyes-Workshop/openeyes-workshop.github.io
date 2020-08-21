@@ -351,15 +351,17 @@ div.paper span.label {
 div.paper div.btn-group {
   margin-top: 8px;
 }
-div.paper button,
+div.paper button {
+  border-radius: 0em !important;
+}
 div.paper .btn {
-  border-radius: 0 !important;
+  border-radius: 0.5em;
 }
 div.paper .btn {
 	text-transform: none !important;
 	box-shadow: none;
 	border: 1px solid #999;
-	margin-right: -1px;
+	margin-right: -2px;
 	padding: 4px 8px;
 }
 div.paper .btn-default {

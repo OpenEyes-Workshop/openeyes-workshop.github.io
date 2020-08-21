@@ -579,6 +579,54 @@ Khargonekar's current research and teaching interests include systems and contro
 </div>
 <br>
 
+<div class="row" id="papers">
+  <div class="col-xs-12">
+    <h2>Accepted Full Papers</h2>
+    <div class="paper">
+        <span class="title">Efficiency in Real-time Webcam Gaze Tracking</span>
+        <span class="authors">Amogh Gudi, Xin Li, Jan van Gemert</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">OpenEyes 2020</button>
+  	  <a class="btn btn-default" target="_blank" href="/downloads/openeyes2020_amogh_gudi_efficiency_in_realtime_webcam_gaze_tracking.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+  	  <a class="btn btn-default" target="_blank" href="https://www.youtube.com/watch?v=H_9viDBiwOE"><i class="fas fa-video"></i> Talk</a>
+        </div>
+    </div>
+    <div class="paper">
+        <span class="title">Hierarchical HMM for Eye Movement Classification</span>
+        <span class="authors">Ye Zhu, Yan Yan, Oleg Komogortsev</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">OpenEyes 2020</button>
+  	  <a class="btn btn-default" target="_blank" href="/downloads/openeyes2020_ye_zhu_hierarchical_hmm_for_eye_movement_classification.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+  	  <a class="btn btn-default" target="_blank" href="https://www.youtube.com/watch?v=Exfn1BgUFk4"><i class="fas fa-video"></i> Talk</a>
+        </div>
+    </div>
+    <div class="paper">
+        <span class="title">Domain Adaptation for Eye Segmentation</span>
+        <span class="authors">Yiru Shen, Oleg Komogortsev, Sachin Talathi</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">OpenEyes 2020</button>
+  	  <a class="btn btn-default" target="_blank" href="/downloads/openeyes2020_yiru_shen_domain_adaptation_for_eye_segmentation.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+  	  <a class="btn btn-default" target="_blank" href="https://www.youtube.com/watch?v=hcrP6x39oOI"><i class="fas fa-video"></i> Talk</a>
+        </div>
+    </div>
+    <div class="paper">
+        <span class="title">EyeSeg: Fast and Efficient Few-Shot Semantic Segmentation</span>
+        <span class="authors">Jonathan Perry, Amanda Fernandez</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-success">OpenEyes 2020</button>
+  	  <a class="btn btn-default" target="_blank" href="/downloads/openeyes2020_jonathan_perry_eyeseg_fast_and_efficient_few_shot_semantic_segmentation.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+  	  <a class="btn btn-default" target="_blank" href="https://www.youtube.com/watch?v=2WYhmaR3PDU"><i class="fas fa-video"></i> Talk</a>
+        </div>
+    </div>
+    <br>
+    <center>
+      Also check out the papers from last year's
+      <a class="btn btn-success" target="_blank" href="https://gazeworkshop.github.io/#accepted">GAZE 2019</a> and
+      <a class="btn btn-primary" target="_blank" href="https://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_OpenEDS">OpenEDS 2019</a>
+    </center>
+  </div>
+</div>
+<br>
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
