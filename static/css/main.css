@@ -162,10 +162,13 @@ div.speaker-pic {
   text-align: right;
 }
 
-div.speaker p.speaker-abstract,
 div.speaker p.speaker-bio {
   font-size: 1em;
   line-height: 1.5em;
+}
+div.speaker p.speaker-abstract {
+  font-size: 0.8em;
+  line-height: 1.3em;
 }
 
 #organizers {

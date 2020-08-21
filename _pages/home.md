@@ -21,6 +21,9 @@ acknowledgements: ""
     <center>PM session: 7:00pm - 10:00pm (UTC+1)</center>
     <br>
     <center>Location: <b>online</b></center>
+    <br>
+    <center>Mini Webpage: <a href="https://workshopsandtutorials.eccv2020.eu/papers/subject/eye-gaze-in-vr-ar-and-in-the-wild/" target="_blank">workshopsandtutorials.eccv2020.eu</a></center>
+    <!--<center>Playlist of Talks: <a href="https://www.youtube.com/playlist?list=PLLB6WOMcarJgAyGKsLUgqYD9eTb0GgX04">Youtube</a></center>-->
   </div>
 </div>
 
@@ -43,6 +46,11 @@ acknowledgements: ""
     <h2>News and Updates</h2>
     <table class="table news">
       <tbody>
+        <tr>
+          <td>21st August</td>
+          <td>We would like to ask all attendees to double check the times of the workshop items.<br>
+	  This is to avoid confusion due to the misinterpretation of timezones.</td>
+        </tr>
         <tr>
           <td>20th July</td>
           <td>We are happy to announce <a href="https://www.cc.gatech.edu/~thad/" target="_blank">Prof. Thad Starner</a> as a keynote speaker to our workshop!</td>
@@ -223,10 +231,10 @@ acknowledgements: ""
     <br>
     -->
     <div class="panel panel-default">
-      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-poster" style="cursor:pointer;">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-challenge" style="cursor:pointer;">
         <h3 style="margin:0;">OpenEDS 2020 Challenges</h3>
       </div>
-      <div id="call-poster" class="panel-collapse collapse in" data-parent="#call">
+      <div id="call-challenge" class="panel-collapse collapse" data-parent="#call">
         <div class="panel-body">
 	  <p>
 	    The OpenEDS 2020 Challenges are hosted by the second track of the OpenEyes Workshop, and consist of two challenges:
@@ -242,55 +250,57 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-  </div>
-</div>
-<br>
-
-<div class="row" id="dates">
-  <div class="col-xs-12">
-    <h2>Important Dates</h2>
     <br>
-    <p>
-      Please note that all deadlines are at 11:59 PM (UTC -0), in line with the main conference.
-    </p>
-    <br>
-    <table class="table table-striped">
-      <tbody>
-        <tr>
-          <td>Full Paper Submission Deadline</td>
-          <td>
-		  <s class="cancelled">Friday, 5th June 2020</s><br>
-		  <s class="cancelled">Monday, 15th June 2020</s><br>
-          Tuesday, 16th June 2020
-		  </td>
-          <td><span class="countdown" reference="16 Jun 2020 23:59:59 UTC"></span></td>
-        </tr>
-        <tr>
-          <td>Notification to Authors (Full Papers)</td>
-		  <td>
-          <s class="cancelled">Friday, 3rd July 2020</s><br>
-          Wednesday, 8th July 2020
-		  </td>
-	  <td></td>
-        </tr>
-        <tr>
-          <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
-          <td>Friday, 31st July 2020</td>
-          <td><span class="countdown" reference="31 Jul 2020 23:59:59 UTC"></span></td>
-        </tr>
-        <tr>
-          <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
-	  <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
-	  <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
-        </tr>
-        <tr>
-          <td>Workshop Date</td>
-          <td>Sunday, 23rd August 2020</td>
-          <!--<td><span class="countdown" reference="23 Aug 2020 08:30:00 UTC"></span></td>-->
-	  <td></td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#important-dates" style="cursor:pointer;">
+        <h3 style="margin:0;">Important Dates</h3>
+      </div>
+      <div id="important-dates" class="panel-collapse collapse" data-parent="#call">
+        <div class="panel-body">
+          <p>
+            Please note that all deadlines are at 11:59 PM (UTC -0), in line with the main conference.
+          </p>
+          <br>
+          <table class="table table-striped">
+            <tbody>
+              <tr>
+                <td>Full Paper Submission Deadline</td>
+                <td>
+              	  <s class="cancelled">Friday, 5th June 2020</s><br>
+              	  <s class="cancelled">Monday, 15th June 2020</s><br>
+                Tuesday, 16th June 2020
+              	  </td>
+                <td><span class="countdown" reference="16 Jun 2020 23:59:59 UTC"></span></td>
+              </tr>
+              <tr>
+                <td>Notification to Authors (Full Papers)</td>
+              	  <td>
+                <s class="cancelled">Friday, 3rd July 2020</s><br>
+                Wednesday, 8th July 2020
+              	  </td>
+                <td></td>
+              </tr>
+              <tr>
+                <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
+                <td>Friday, 31st July 2020</td>
+                <td><span class="countdown" reference="31 Jul 2020 23:59:59 UTC"></span></td>
+              </tr>
+              <tr>
+                <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
+                <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
+                <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
+              </tr>
+              <tr>
+                <td>Workshop Date</td>
+                <td>Sunday, 23rd August 2020</td>
+                <!--<td><span class="countdown" reference="23 Aug 2020 08:30:00 UTC"></span></td>-->
+                <td></td>
+              </tr>
+            </tbody>
+          </table>
+	</div>
+      </div>
+    </div>
   </div>
 </div><br>
 
@@ -417,7 +427,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-sm-9">
-    <!--<h3>TITLE</h3><br>-->
+    <h3>Eye Tracking: Ready to deliver the promises?</h3><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#ek-bio" style="cursor:pointer;text-align:center">
@@ -474,7 +484,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-sm-9">
-    <!--<h3>TITLE</h3><br>-->
+    <h3>Kalman Filtering, Sensor Fusion, and Eye Tracking</h3><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#pk-bio" style="cursor:pointer;text-align:center">
@@ -500,7 +510,7 @@ Khargonekar's current research and teaching interests include systems and contro
     </div>
   </div>
   <div class="col-sm-9">
-    <!--<h3>TITLE</h3><br>-->
+    <h3>Computational Modeling of Visual Attention for Virtual Reality</h3><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#li-bio" style="cursor:pointer;text-align:center">
