@@ -429,6 +429,7 @@ acknowledgements: ""
   <div class="col-sm-9">
     <h3>Eye Tracking: Ready to deliver the promises?</h3><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D7fMLYqvujQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#ek-bio" style="cursor:pointer;text-align:center">
         <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -453,6 +454,7 @@ acknowledgements: ""
   </div>
   <div class="col-sm-9">
     <h3>The interplay between Privacy, Security and Eye Tracking in the Wild: Opportunities and Challenges</h3><br>
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C8ITW7i_Rc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <b>Abstract</b><p class="speaker-abstract">
     Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
     </p>
@@ -485,6 +487,7 @@ acknowledgements: ""
   </div>
   <div class="col-sm-9">
     <h3>Kalman Filtering, Sensor Fusion, and Eye Tracking</h3><br>
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZM-LixnTvfg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#pk-bio" style="cursor:pointer;text-align:center">
@@ -511,6 +514,7 @@ Khargonekar's current research and teaching interests include systems and contro
   </div>
   <div class="col-sm-9">
     <h3>Computational Modeling of Visual Attention for Virtual Reality</h3><br>
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Aj6wFVLjweU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#li-bio" style="cursor:pointer;text-align:center">
@@ -536,6 +540,7 @@ Khargonekar's current research and teaching interests include systems and contro
   </div>
   <div class="col-sm-9">
     <h3>A Bayesian Framework for Robust and Generalizable Eye Tracking</h3><br>
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5oBAVfZ-MJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
     <br><br>
     Specifically, the proposed method consists of a Bayesian Convolutional Neural Network (BCNN) to capture the probabilistic relationships between eye appearance and its landmarks, and a geometric model to estimate eye gaze from the eye landmarks.  Under a Bayesian framework to integrate the two modules, given an eye image, the BCNN module outputs the probability distribution of the eye landmarks and their uncertainties, based on which the geometric model performs a Bayesian inference of the eye gaze by marginalizing out the eye landmarks, enabling eye gaze estimation without explicit eye landmark detection.  Compared to the point-based eye landmark estimation methods, our model not only can generalize better, but is also more robust under challenging real world conditions.  In addition, we extend the single-stage model to multi-stage, yielding the cascade BCNN.   The cascade architecture allows feeding the uncertainty information from current stage to the next stage to progressively improve the gaze estimation accuracy.  Experiments show the proposed method, while achieving comparable within-dataset performance, outperforms SoA methods in both it’s generalization capability across datasets, and in its robustness for low quality and challenging datasets.
@@ -564,6 +569,7 @@ Khargonekar's current research and teaching interests include systems and contro
   </div>
   <div class="col-sm-9">
 	<h3>Eye Interfaces for Augmented Reality Eyeglasses</h3><br>
+	<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iz-H3wBicmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
 	<b>Abstract</b><p class="speaker-abstract">
 	Eye interfaces should be reliable, scalable, consistent, discoverable, provide the user with feedback on performace, and be designed to indicate how they should be used. Combining these human computer interaction (HCI) fundamentals with machine learning and perception can point to useful and usable interfaces, in sometimes unexpected ways.  This talk explores interfaces that have proved the most promising for augmented reality eyeglasses, focusing on eye gestures where tracking the relative motion of the eye is more important than absolute position. Such interfaces are surprisingly robust and have even been sensed using electrooculography (EOG) with three electrodes in the nose bridge of a Jins Meme.
 	</p>

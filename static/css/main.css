@@ -162,6 +162,9 @@ div.speaker-pic {
   text-align: right;
 }
 
+div.speaker div.panel-heading {
+  font-size: 0.8em;
+}
 div.speaker p.speaker-bio {
   font-size: 1em;
   line-height: 1.5em;
