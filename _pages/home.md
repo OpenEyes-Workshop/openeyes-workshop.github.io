@@ -270,7 +270,7 @@ acknowledgements: ""
                 <td>
               	  <s class="cancelled">Friday, 5th June 2020</s><br>
               	  <s class="cancelled">Monday, 15th June 2020</s><br>
-                Tuesday, 16th June 2020
+                  <s>Tuesday, 16th June 2020</s>
               	  </td>
                 <td><span class="countdown" reference="16 Jun 2020 23:59:59 UTC"></span></td>
               </tr>
@@ -278,18 +278,18 @@ acknowledgements: ""
                 <td>Notification to Authors (Full Papers)</td>
               	  <td>
                 <s class="cancelled">Friday, 3rd July 2020</s><br>
-                Wednesday, 8th July 2020
+                <s>Wednesday, 8th July 2020</s>
               	  </td>
                 <td></td>
               </tr>
               <tr>
                 <td><a href="https://research.fb.com/programs/openeds-2020-challenge/">OpenEDS Challenges</a> Participation Deadline</td>
-                <td>Friday, 31st July 2020</td>
+                <td><s>Friday, 31st July 2020</s></td>
                 <td><span class="countdown" reference="31 Jul 2020 23:59:59 UTC"></span></td>
               </tr>
               <tr>
                 <td>Camera-Ready Deadline &amp;<br>Presentation Materials Deadline</td>
-                <td style="vertical-align:middle;">Saturday, 8th August 2020</td>
+                <td style="vertical-align:middle;"><s>Saturday, 8th August 2020</s></td>
                 <td><span class="countdown" reference="8 Aug 2020 23:59:59 UTC"></span></td>
               </tr>
               <tr>
