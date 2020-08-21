@@ -14,15 +14,17 @@ acknowledgements: ""
 <div class="row" id="intro">
   <div class="col-xs-12">
     <center><h1>OpenEyes: Eye Gaze in AR, VR, and in the Wild</h1></center>
-    <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Workshop</a>, Glasgow, Scotland</h2></center>
+    <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Virtual Workshop</a></h2></center>
     <br>
     <center>Sunday, August 23 2020</center>
     <center>AM session: 8:00am - 11:00pm (UTC+1)</center>
     <center>PM session: 7:00pm - 10:00pm (UTC+1)</center>
     <br>
-    <center>Location: <b>online</b></center>
-    <br>
     <center>Mini Webpage: <a href="https://workshopsandtutorials.eccv2020.eu/papers/subject/eye-gaze-in-vr-ar-and-in-the-wild/" target="_blank">workshopsandtutorials.eccv2020.eu</a></center>
+    <br>
+    <center>OpenEDS Challenges 2020: <a href="https://research.fb.com/programs/openeds-2020-challenge/" target="_blank">research.fb.com/programs/openeds-2020-challenge</a></center>
+    <center>EvalAI pages: <a class="btn btn-sm" href="https://evalai.cloudcv.org/web/challenges/challenge-page/605/overview" target="_blank">Gaze Prediction</a>&nbsp;
+    <a class="btn btn-sm" href="https://evalai.cloudcv.org/web/challenges/challenge-page/603/overview" target="_blank">Sparse Semantic Segmentation</a></center>
     <!--<center>Playlist of Talks: <a href="https://www.youtube.com/playlist?list=PLLB6WOMcarJgAyGKsLUgqYD9eTb0GgX04">Youtube</a></center>-->
   </div>
 </div>
