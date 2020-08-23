@@ -53,45 +53,57 @@ acknowledgements: ""
           <td>We would like to ask all attendees to double check the times of the workshop items.<br>
 	  This is to avoid confusion due to the misinterpretation of timezones.</td>
         </tr>
-        <tr>
-          <td>20th July</td>
-          <td>We are happy to announce <a href="https://www.cc.gatech.edu/~thad/" target="_blank">Prof. Thad Starner</a> as a keynote speaker to our workshop!</td>
-        </tr>
-        <tr>
-          <td>28th June</td>
-          <td>Due to time limitations and logistical restrictions, we have decided not to host extend abstracts at this year's OpenEyes.</td>
-        </tr>
-        <tr>
-          <td>4th June</td>
-          <td>
-            We are happy to announce
-            <ul>
-              <li><a href="http://faculty.sites.uci.edu/khargonekar/" target="_blank">Prof. Pramod Khargonekar</a> of University of California, Irvine</li>
-              <li><a href="http://ilab.usc.edu/itti/" target="_blank">Prof. Laurent Itti</a> of University of Southern California</li>
-            </ul>as keynote speakers to our workshop!
-          </td>
-        </tr>
-        <tr>
-          <td>30th May</td>
-          <td>We have decided to extend the workshop paper submission deadline to Monday 15th June.</td>
-        </tr>
-        <tr>
-          <td>29th May</td>
-          <td>
-            We are happy to announce
-            <ul>
-              <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
-              <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Enkelejda Kasneci</a> of the University of Tübingen</li>
-              <li><a href="http://mkhamis.com/" target="_blank">Prof. Mohamed Khamis</a> of the University of Glasgow</li>
-            </ul>as keynote speakers to our workshop!
-          </td>
-        </tr>
-        <tr>
-          <td>19th May</td>
-          <td><a href="https://eccv2020.eu/update-on-coronavirus/" target="_blank">ECCV is going virtual</a>, and thus so is OpenEyes 2020. We will announce further details as they become available to us. In general, we will be run in the same fashion as the main conference and other ECCV workshops.</td>
-        </tr>
       </tbody>
     </table>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#older-news" style="cursor:pointer;">
+        <h3 style="margin:0;">older news (hidden for brevity)</h3>
+      </div>
+      <div id="older-news" class="panel-collapse collapse" data-parent="#call">
+        <div class="panel-body">
+	<table class="table news">
+	  <tbody>
+            <tr>
+              <td>20th July</td>
+              <td>We are happy to announce <a href="https://www.cc.gatech.edu/~thad/" target="_blank">Prof. Thad Starner</a> as a keynote speaker to our workshop!</td>
+            </tr>
+            <tr>
+              <td>28th June</td>
+              <td>Due to time limitations and logistical restrictions, we have decided not to host extend abstracts at this year's OpenEyes.</td>
+            </tr>
+            <tr>
+              <td>4th June</td>
+              <td>
+                We are happy to announce
+                <ul>
+                  <li><a href="http://faculty.sites.uci.edu/khargonekar/" target="_blank">Prof. Pramod Khargonekar</a> of University of California, Irvine</li>
+                  <li><a href="http://ilab.usc.edu/itti/" target="_blank">Prof. Laurent Itti</a> of University of Southern California</li>
+                </ul>as keynote speakers to our workshop!
+              </td>
+            </tr>
+            <tr>
+              <td>30th May</td>
+              <td>We have decided to extend the workshop paper submission deadline to Monday 15th June.</td>
+            </tr>
+            <tr>
+              <td>29th May</td>
+              <td>
+                We are happy to announce
+                <ul>
+                  <li><a href="https://www.ecse.rpi.edu/~qji/" target="_blank">Prof. Qiang Ji</a> of Rensselaer Polytechnic Institute</li>
+                  <li><a href="https://www.hci.uni-tuebingen.de/chair/team/enkelejda-kasneci" target="_blank">Prof. Enkelejda Kasneci</a> of the University of Tübingen</li>
+                  <li><a href="http://mkhamis.com/" target="_blank">Prof. Mohamed Khamis</a> of the University of Glasgow</li>
+                </ul>as keynote speakers to our workshop!
+              </td>
+            </tr>
+            <tr>
+              <td>19th May</td>
+              <td><a href="https://eccv2020.eu/update-on-coronavirus/" target="_blank">ECCV is going virtual</a>, and thus so is OpenEyes 2020. We will announce further details as they become available to us. In general, we will be run in the same fashion as the main conference and other ECCV workshops.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -106,82 +118,87 @@ acknowledgements: ""
     </span>
   </div>
 </div>
-
 <br>
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Introduction</h2>
-  </div>
-</div>
+
 <div class="row">
   <div class="col-xs-12">
-  <p>
-  With the advent of consumer products, AR and VR as a form of immersive technology is gaining
-  mainstream attention. However, immersive technology is still in its infancy, as both users and
-  developers figure out the right recipe for the technology to garner mass appeal.
-  </p>
-  <p>
-  Eye tracking, a technology that measures where an individual is looking and can enable
-  inference of user attention, could be a key driver of mass appeal for the next generation of
-  immersive technologies, provided user awareness and privacy related to eye-tracking features
-  are taken into account. As such, there is a growing interest in improving the state-of-the-art
-  for eye tracking technology. In the past three years, investigations into gaze estimation and
-  prediction methods produced significant improvements in robustness and accuracy by adopting
-  increasingly unique deep neural network architectures. These improvements allow innovative
-  applications for this technology, such as zero-shot image classification and generalized human
-  attention and intent estimation.
-  </p>
-  <p>
-  Open forums of discussion provide opportunities to further improve eye tracking technology,
-  especially in areas like scale and generalization challenges in the next generation of AR and
-  VR systems. For that reason,
-  <a target="_blank" href="https://research.fb.com/">Facebook</a> organized the first challenge
-  <a target="_blank" href="https://research.fb.com/programs/the-2019-openeds-workshop-eye-tracking-for-vr-and-ar/">“Eye Tracking for VR and AR (OpenEDS)”</a>
-  at the ICCV 2019 and the independent GAZE committee organized a workshop titled
-  <a target="_blank" href="https://gazeworkshop.github.io/">“Gaze Estimation and Prediction in the Wild (GAZE)”</a>.
-  </p>
-  <p>
-  For 2020, the Facebook and GAZE committees are partnering to host a joint workshop titled
-  “Eye Gaze in VR, AR, and in the Wild” at the biennial <a href="https://eccv2020.eu/">ECCV conference</a>.
-  The workshop will host
-  two tracks: the first focuses on gaze estimation and prediction methods, with a focus on
-  accuracy and robustness in natural settings (in-the-wild); the second track focuses on the
-  scale and generalization problem for eye tracking systems operating on AR and VR platforms.
-  The second track also includes the 2020 eye tracking challenge.
-  More information on the OpenEDS 2020 challenge can be found at
-  <a href="https://research.fb.com/programs/openeds-2020-challenge/">https://research.fb.com/programs/openeds-2020-challenge/</a>
-  </p>
+    <h2>Introduction</h2>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#introduction-text" style="cursor:pointer;">
+        <h3 style="margin:0;">Full Text (hidden for brevity)</h3>
+      </div>
+      <div id="introduction-text" class="panel-collapse collapse" data-parent="#call">
+        <div class="panel-body">
+          <p>
+          With the advent of consumer products, AR and VR as a form of immersive technology is gaining
+          mainstream attention. However, immersive technology is still in its infancy, as both users and
+          developers figure out the right recipe for the technology to garner mass appeal.
+          </p>
+          <p>
+          Eye tracking, a technology that measures where an individual is looking and can enable
+          inference of user attention, could be a key driver of mass appeal for the next generation of
+          immersive technologies, provided user awareness and privacy related to eye-tracking features
+          are taken into account. As such, there is a growing interest in improving the state-of-the-art
+          for eye tracking technology. In the past three years, investigations into gaze estimation and
+          prediction methods produced significant improvements in robustness and accuracy by adopting
+          increasingly unique deep neural network architectures. These improvements allow innovative
+          applications for this technology, such as zero-shot image classification and generalized human
+          attention and intent estimation.
+          </p>
+          <p>
+          Open forums of discussion provide opportunities to further improve eye tracking technology,
+          especially in areas like scale and generalization challenges in the next generation of AR and
+          VR systems. For that reason,
+          <a target="_blank" href="https://research.fb.com/">Facebook</a> organized the first challenge
+          <a target="_blank" href="https://research.fb.com/programs/the-2019-openeds-workshop-eye-tracking-for-vr-and-ar/">“Eye Tracking for VR and AR (OpenEDS)”</a>
+          at the ICCV 2019 and the independent GAZE committee organized a workshop titled
+          <a target="_blank" href="https://gazeworkshop.github.io/">“Gaze Estimation and Prediction in the Wild (GAZE)”</a>.
+          </p>
+          <p>
+          For 2020, the Facebook and GAZE committees are partnering to host a joint workshop titled
+          “Eye Gaze in VR, AR, and in the Wild” at the biennial <a href="https://eccv2020.eu/">ECCV conference</a>.
+          The workshop will host
+          two tracks: the first focuses on gaze estimation and prediction methods, with a focus on
+          accuracy and robustness in natural settings (in-the-wild); the second track focuses on the
+          scale and generalization problem for eye tracking systems operating on AR and VR platforms.
+          The second track also includes the 2020 eye tracking challenge.
+          More information on the OpenEDS 2020 challenge can be found at
+          <a href="https://research.fb.com/programs/openeds-2020-challenge/">https://research.fb.com/programs/openeds-2020-challenge/</a>
+          </p>
 
-  <p>
-  The following topics are of particular interest to the joint workshop:
-  </p>
-  <ul>
-  <li>
-  Proposal of novel eye detection, gaze estimation pipelines using deep neural networks that incorporate one or all of the following:
-  <ul>
-  <li>Geometric/anatomical constraints into the network in a differentiable manner.</li>
-  <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.).</li>
-  <li>Robust estimation from different data modalities such as RGB, depth, and near IR.</li>
-  <li>Use of additional cues, such as task context, temporal data, eye movement classification.</li>
-  </ul>
-  </li>
-  <li>Designing new, accurate metrics to account for rapid eye movements in the real world.</li>
-  <li>Semi-/un-/self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation.</li>
-  <li>Methods for temporal gaze estimation and prediction including Bayesian methods.</li>
-  <li>Unsupervised semantic segmentation of eye regions.</li>
-  <li>Active learning frameworks for semantic segmentation of eye images.</li>
-  <li>Generative models for eye image synthesis and gaze estimation.</li>
-  <li>Transfer learning for eye tracking from simulation data to real data.</li>
-  <li>Domain transfer applications for eye tracking.</li>
-  </ul>
+          <p>
+          The following topics are of particular interest to the joint workshop:
+          </p>
+          <ul>
+          <li>
+          Proposal of novel eye detection, gaze estimation pipelines using deep neural networks that incorporate one or all of the following:
+          <ul>
+          <li>Geometric/anatomical constraints into the network in a differentiable manner.</li>
+          <li>Demonstration of robustness to conditions where current methods fail (illumination, appearance, low-resolution etc.).</li>
+          <li>Robust estimation from different data modalities such as RGB, depth, and near IR.</li>
+          <li>Use of additional cues, such as task context, temporal data, eye movement classification.</li>
+          </ul>
+          </li>
+          <li>Designing new, accurate metrics to account for rapid eye movements in the real world.</li>
+          <li>Semi-/un-/self-supervised learning, meta-learning, domain adaptation, attention mechanisms and other related machine learning methods for gaze estimation.</li>
+          <li>Methods for temporal gaze estimation and prediction including Bayesian methods.</li>
+          <li>Unsupervised semantic segmentation of eye regions.</li>
+          <li>Active learning frameworks for semantic segmentation of eye images.</li>
+          <li>Generative models for eye image synthesis and gaze estimation.</li>
+          <li>Transfer learning for eye tracking from simulation data to real data.</li>
+          <li>Domain transfer applications for eye tracking.</li>
+          </ul>
 
-  <p>
-  This workshop will accept submissions of both published and unpublished works. We will also
-  solicit high-quality eye tracking-related papers rejected at ECCV 2020, accompanied by the
-  reviews and a letter of changes which clearly states the changes made to address comments by
-  the previous reviewers. Accepted papers may be featured as spotlight talks and posters.
-  </p>
-</div>
+          <p>
+          This workshop will accept submissions of both published and unpublished works. We will also
+          solicit high-quality eye tracking-related papers rejected at ECCV 2020, accompanied by the
+          reviews and a letter of changes which clearly states the changes made to address comments by
+          the previous reviewers. Accepted papers may be featured as spotlight talks and posters.
+          </p>
+	</div>
+      </div>
+    </div>
+  </div>
 </div>
 <br>
 
