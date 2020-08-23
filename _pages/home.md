@@ -18,10 +18,10 @@ acknowledgements: ""
     <br>
     <center>Sunday, August 23 2020</center>
     <center>AM session: <s>8:00am - 11:00pm (UTC+1)</s>
-      <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Youtube Recording]</a>
+      <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
     </center>
-    <center>PM session: 7:00pm - 10:00pm (UTC+1)
-      <a href="https://us02web.zoom.us/j/89656149200?pwd=ekQrUGlmVklwdVdFZ2pNZGk3MitxUT09" target="_blank" style="color:blue;">[Zoom Link]</a>
+    <center><s>PM session: 7:00pm - 10:00pm (UTC+1)</s>
+      <a href="https://www.youtube.com/watch?v=RDfThX0mnUg" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
     </center>
     <br>
     <center>Mini Webpage: <a href="https://workshopsandtutorials.eccv2020.eu/papers/subject/eye-gaze-in-vr-ar-and-in-the-wild/" target="_blank">workshopsandtutorials.eccv2020.eu</a></center>
@@ -29,7 +29,8 @@ acknowledgements: ""
     <center>OpenEDS Challenges 2020: <a href="https://research.fb.com/programs/openeds-2020-challenge/" target="_blank">research.fb.com/programs/openeds-2020-challenge</a></center>
     <center>EvalAI pages: <a class="btn btn-sm" href="https://evalai.cloudcv.org/web/challenges/challenge-page/605/overview" target="_blank">Gaze Prediction</a>&nbsp;
     <a class="btn btn-sm" href="https://evalai.cloudcv.org/web/challenges/challenge-page/603/overview" target="_blank">Sparse Semantic Segmentation</a></center>
-    <!--<center>Playlist of Talks: <a href="https://www.youtube.com/playlist?list=PLLB6WOMcarJgAyGKsLUgqYD9eTb0GgX04">Youtube</a></center>-->
+    <br>
+    <center>Playlist of Talks: <a href="https://www.youtube.com/playlist?list=PLLB6WOMcarJgAyGKsLUgqYD9eTb0GgX04">Youtube</a></center>
   </div>
 </div>
 
@@ -332,7 +333,7 @@ acknowledgements: ""
      <h2>Workshop Schedule</h2>
      <br>
      <b>AM session (<s>8:00 - 11:00 UTC+1</s>)</b>
-     <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Youtube Recording]</a>
+     <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -375,8 +376,8 @@ acknowledgements: ""
       </tbody>
      </table>
      <br>
-     <b>PM session (19:00 - 22:00 UTC+1)</b>
-     <a href="https://us02web.zoom.us/j/89656149200?pwd=ekQrUGlmVklwdVdFZ2pNZGk3MitxUT09" target="_blank" style="color:blue;">[Zoom Link]</a>
+     <b>PM session (<s>19:00 - 22:00 UTC+1</s>)</b>
+     <a href="https://www.youtube.com/watch?v=RDfThX0mnUg" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
