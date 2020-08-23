@@ -671,16 +671,54 @@ Khargonekar's current research and teaching interests include systems and contro
     <div class="award">
       <span class="award-other">We would like to thank
         <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
-        for awarding an eye tracker device for each accepted full paper.
+        for awarding an eye tracker device for each <a href="#papers">accepted full paper</a>.
       </span>
     </div>
     <div class="award">
       <span class="award-other">We also congratulate the winners of the OpenEDS 2020 challenge hosted by
         <img src="/static/img/frl.png"/>.</span>
     </div>
-    <p style="margin-left:3.5em;">
+    <p style="margin-left:3.0em;">
       Click <a href="https://research.fb.com/programs/openeds-2020-challenge/" target="_blank">here</a> for the challenge website,
       and <a href="https://www.youtube.com/watch?v=SbhbxSSIV_s" target="_blank">here</a> for the video announcing the winners.
+      <br><br>
+
+      <u>Gaze Prediction Challenge</u><br>
+      <b>First Place Team:</b> Random_B<br>
+      <b>Members:</b> Anton Repushko, Skoblov Svyatosiav, Vladimir Mikheyushkin<br>
+      <b>Country:</b> Russia<br>
+      <b>Gaze Prediction Error:</b> 3.17 Degree<br>
+      <br>
+
+      <b>Second Place Team:</b> Eyemazing<br>
+      <b>Members:</b> Vivek Mittal<br>
+      <b>Country:</b> India<br>
+      <b>Gaze Prediction Error:</b> 3.31 Degree<br>
+      <br>
+
+      <b>Third Place Team:</b> DmitryAKonovalov<br>
+      <b>Members:</b> Dmitry Konolov<br>
+      <b>Country:</b> Australia<br>
+      <b>Gaze Prediction Error:</b> 3.34 Degree<br>
+      <br>
+
+      <u>Sparse Semantic Segmentation Challenge</u><br>
+      <b>First Place Team</b>: BTS Digital<br>
+      <b>Members</b>: Almaz Zinollayev, Zhanseri Ikram<br>
+      <b>Country</b>: Kazhakastan<br>
+      <b>mIOU</b>: 0.952<br>
+      <br>
+
+      <b>Second Place Team</b>: Tetelias<br>
+      <b>Members</b>: Teternikov Ilia Anatolyevich<br>
+      <b>Country</b>: Russia<br>
+      <b>mIOU</b>: 0.951<br>
+      <br>
+
+      <b>Third Place Team</b>: JHU<br>
+      <b>Members</b>: Daniil Pakhomov, Sanchit Hira<br>
+      <b>Country</b>: USA<br>
+      <b>mIOU</b>: 0.950<br>
     </p>
   </div>
 </div>
