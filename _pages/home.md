@@ -654,6 +654,38 @@ Khargonekar's current research and teaching interests include systems and contro
 </div>
 <br>
 
+<div class="row">
+  <div class="col-xs-12" id="accepted">
+    <h2>Awards</h2>
+    <div class="award">
+      <h3>Best Paper Award
+        <span class="award-sponsor">sponsored by
+          <a href="https://www.nvidia.com/"><img src="/static/img/nvidia.jpg" /></a>
+	</span>
+      </h3>
+      <p style="margin-left:1.5em;margin-top:1.0em;">
+        <b>Efficiency in Real-time Webcam Gaze Tracking</b><br>
+        <i>Amogh Gudi, Xin Li, Jan van Gemert</i>
+      </p>
+    </div>
+    <div class="award">
+      <span class="award-other">We would like to thank
+        <a href="https://www.tobii.com/"><img src="/static/img/tobii.jpg" /></a>
+        for awarding an eye tracker device for each accepted full paper.
+      </span>
+    </div>
+    <div class="award">
+      <span class="award-other">We also congratulate the winners of the OpenEDS 2020 challenge hosted by
+        <img src="/static/img/frl.png"/>.</span>
+    </div>
+    <p style="margin-left:3.5em;">
+      Click <a href="https://research.fb.com/programs/openeds-2020-challenge/" target="_blank">here</a> for the challenge website,
+      and <a href="https://www.youtube.com/watch?v=SbhbxSSIV_s" target="_blank">here</a> for the video announcing the winners.
+    </p>
+  </div>
+</div>
+<br>
+
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
