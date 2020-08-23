@@ -405,11 +405,6 @@ acknowledgements: ""
         <tr>
           <td>9:40pm - 9:50pm</td>
           <td class="to-local-time">23 Aug 2020 20:40:00 UTC</td>
-          <td>Award Ceremony</td>
-        </tr>
-        <tr>
-          <td>9:50pm - 10:00pm</td>
-          <td class="to-local-time">23 Aug 2020 20:50:00 UTC</td>
           <td>Closing Remarks</td>
         </tr>
       </tbody>
