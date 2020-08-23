@@ -17,8 +17,7 @@ acknowledgements: ""
     <center><h2><a href="https://eccv2020.eu/workshops/">ECCV 2020 Virtual Workshop</a></h2></center>
     <br>
     <center>Sunday, August 23 2020</center>
-    <center>AM session: 8:00am - 11:00pm (UTC+1)
-      <a href="https://us02web.zoom.us/j/89746135870?pwd=RXl1cnllZ0tiQUZuOFBDbUQycUJsdz09" target="_blank" style="color:blue;">[Zoom Link]</a>
+    <center>AM session: <s>8:00am - 11:00pm (UTC+1)</s>
       <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Youtube Recording]</a>
     </center>
     <center>PM session: 7:00pm - 10:00pm (UTC+1)
@@ -332,8 +331,7 @@ acknowledgements: ""
   <div class="col-xs-12">
      <h2>Workshop Schedule</h2>
      <br>
-     <b>AM session (8:00 - 11:00 UTC+1)</b>
-     <a href="https://us02web.zoom.us/j/89746135870?pwd=RXl1cnllZ0tiQUZuOFBDbUQycUJsdz09" target="_blank" style="color:blue;">[Zoom Link]</a>
+     <b>AM session (<s>8:00 - 11:00 UTC+1</s>)</b>
      <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Youtube Recording]</a>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
