@@ -459,15 +459,15 @@ acknowledgements: ""
   <div class="col-sm-9">
     <h3>The interplay between Privacy, Security and Eye Tracking in the Wild: Opportunities and Challenges</h3><br>
     <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C8ITW7i_Rc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
-    <b>Abstract</b><p class="speaker-abstract">
-    Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
-    </p>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#mk-bio" style="cursor:pointer;text-align:center">
-        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+        <b>Abstract &amp; Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
       </div>
       <div id="mk-bio" class="panel-collapse collapse"><div class="panel-body">
-        <p class="speaker-bio">
+        <b>Abstract</b><p class="speaker-abstract">
+        Many of today’s smartphones, laptops and head-mounted displays are well equipped for accurate gaze estimation in the wild. These are important developments for security applications. For example, we will soon be able to run gaze-based security methods in the wild, such as authentication in daily scenarios, and analyze gaze behavior during security critical tasks, like when reading a phishing email. On the downside, ubiquitous eye tracking comes with privacy implications. Imagine if a neighbouring train passenger’s smartphone can track your eyes; this could potentially reveal a myriad of private information including visual interests, personality traits, mental disorders, emotional valence and more. In this talk, I will discuss how the role of eye gaze in security and privacy applications evolved in the past two decades, and how the current developments in ubiquitous eye tracking present a turning point that give rise to many opportunities and also new challenges.
+        </p>
+        <b>Biography</b><p class="speaker-bio">
 		Mohamed Khamis is a Lecturer (Assistant Professor) at the University of Glasgow in the UK where he leads a research team in Human-Centered Security. He received his PhD from Ludwig Maximilian University of Munich. His research is at the intersection of Ubiquitous Computing and User Privacy. He is interested in understanding the privacy implications of ubiquitous technologies, as well as developing novel systems for protecting privacy and security. He has major contributions at the intersection of security and gaze. Mohamed is a program committee member for CHI since 2019, an editorial board member of the Journal on Human Computer Studies. His work has been funded by the Royal Society of Edinburgh.
         </p>
       </div></div>
@@ -545,16 +545,16 @@ Khargonekar's current research and teaching interests include systems and contro
   <div class="col-sm-9">
     <h3>A Bayesian Framework for Robust and Generalizable Eye Tracking</h3><br>
     <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5oBAVfZ-MJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
-    <b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
-    <br><br>
-    Specifically, the proposed method consists of a Bayesian Convolutional Neural Network (BCNN) to capture the probabilistic relationships between eye appearance and its landmarks, and a geometric model to estimate eye gaze from the eye landmarks.  Under a Bayesian framework to integrate the two modules, given an eye image, the BCNN module outputs the probability distribution of the eye landmarks and their uncertainties, based on which the geometric model performs a Bayesian inference of the eye gaze by marginalizing out the eye landmarks, enabling eye gaze estimation without explicit eye landmark detection.  Compared to the point-based eye landmark estimation methods, our model not only can generalize better, but is also more robust under challenging real world conditions.  In addition, we extend the single-stage model to multi-stage, yielding the cascade BCNN.   The cascade architecture allows feeding the uncertainty information from current stage to the next stage to progressively improve the gaze estimation accuracy.  Experiments show the proposed method, while achieving comparable within-dataset performance, outperforms SoA methods in both it’s generalization capability across datasets, and in its robustness for low quality and challenging datasets.
-    </p>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#qj-bio" style="cursor:pointer;text-align:center">
-        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+        <b>Abstract &amp; Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
       </div>
       <div id="qj-bio" class="panel-collapse collapse"><div class="panel-body">
-        <p class="speaker-bio">
+        <b>Abstract</b><p class="speaker-abstract">As a classical eye tracking approach, model-based eye tracking uses a geometric eye model to perform eye tracking; it generalizes well and requires no training data.  Model-based eye tracking, however, requires accurate eye feature detection, which is hard to achieve in real world environments.   Deep learning based methods have been employed recently to improve eye feature detection accuracy.  These methods, however, do not generalize well to novel data.   To achieve robust and generalizable eye tracking under different conditions, we propose a Bayesian framework to perform model-based eye tracking without explicit eye feature detection.
+        <br><br>
+        Specifically, the proposed method consists of a Bayesian Convolutional Neural Network (BCNN) to capture the probabilistic relationships between eye appearance and its landmarks, and a geometric model to estimate eye gaze from the eye landmarks.  Under a Bayesian framework to integrate the two modules, given an eye image, the BCNN module outputs the probability distribution of the eye landmarks and their uncertainties, based on which the geometric model performs a Bayesian inference of the eye gaze by marginalizing out the eye landmarks, enabling eye gaze estimation without explicit eye landmark detection.  Compared to the point-based eye landmark estimation methods, our model not only can generalize better, but is also more robust under challenging real world conditions.  In addition, we extend the single-stage model to multi-stage, yielding the cascade BCNN.   The cascade architecture allows feeding the uncertainty information from current stage to the next stage to progressively improve the gaze estimation accuracy.  Experiments show the proposed method, while achieving comparable within-dataset performance, outperforms SoA methods in both it’s generalization capability across datasets, and in its robustness for low quality and challenging datasets.
+        </p>
+        <b>Biography</b><p class="speaker-bio">
           Qiang Ji received his Ph.D degree in electrical engineering from the University of Washington. He is currently a Professor with the Department of Electrical, Computer, and Systems engineering at RPI. From January, 2009 to August, 2010, he served as a program director at the National Science Foundation, managing NSF's machine learning and computer vision programs. Prior to joining RPI in 2001, he was an assistant professor with Dept. of Computer Science, University of Nevada at Reno. He also held research and visiting positions with the Beckman Institute at University of Illinois at Urbana-Champaign, the Robotics Institute at Carnegie Mellon University, and the US Air Force Research Laboratory. Dr. Ji currently serves as the director of the <a href="http://www.ecse.rpi.edu/~cvrl" target="_blank">Intelligent Systems Laboratory (ISL)</a>. Prof. Ji is a fellow of the IEEE and the IAPR.
         </p>
       </div></div>
@@ -574,15 +574,15 @@ Khargonekar's current research and teaching interests include systems and contro
   <div class="col-sm-9">
 	<h3>Eye Interfaces for Augmented Reality Eyeglasses</h3><br>
 	<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iz-H3wBicmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" href="#ts-bio" style="cursor:pointer;text-align:center">
+        <b>Abstract &amp; Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+      </div>
+      <div id="ts-bio" class="panel-collapse collapse"><div class="panel-body">
 	<b>Abstract</b><p class="speaker-abstract">
 	Eye interfaces should be reliable, scalable, consistent, discoverable, provide the user with feedback on performace, and be designed to indicate how they should be used. Combining these human computer interaction (HCI) fundamentals with machine learning and perception can point to useful and usable interfaces, in sometimes unexpected ways.  This talk explores interfaces that have proved the most promising for augmented reality eyeglasses, focusing on eye gestures where tracking the relative motion of the eye is more important than absolute position. Such interfaces are surprisingly robust and have even been sensed using electrooculography (EOG) with three electrodes in the nose bridge of a Jins Meme.
 	</p>
-    <div class="panel panel-default">
-      <div class="panel-heading" data-toggle="collapse" href="#ts-bio" style="cursor:pointer;text-align:center">
-        <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-      </div>
-      <div id="ts-bio" class="panel-collapse collapse"><div class="panel-body">
-        <p class="speaker-bio">Thad Starner is a Professor of Computing at Georgia Tech. He is also a Staff Research Scientist at Google, where he was one of the architects of Google Glass. In 1990, Starner coined the term "augmented reality" to describe the types of interfaces he envisioned for the future, and he has been using a head worn display as part of his daily life since 1993. He is a founder of the annual ACM International Symposium on Wearable Computers, now in its 24th year. Dr. Starner has produced over 500 papers and presentations on his research on interfaces and machine learning and has 95 issued United States utility patents. He was elected to the CHI Academy in 2017 and is always looking for a good game of table tennis.</p>
+        <b>Biography</b><p class="speaker-bio">Thad Starner is a Professor of Computing at Georgia Tech. He is also a Staff Research Scientist at Google, where he was one of the architects of Google Glass. In 1990, Starner coined the term "augmented reality" to describe the types of interfaces he envisioned for the future, and he has been using a head worn display as part of his daily life since 1993. He is a founder of the annual ACM International Symposium on Wearable Computers, now in its 24th year. Dr. Starner has produced over 500 papers and presentations on his research on interfaces and machine learning and has 95 issued United States utility patents. He was elected to the CHI Academy in 2017 and is always looking for a good game of table tennis.</p>
       </div></div>
     </div>
   </div>

@@ -165,10 +165,7 @@ div.speaker-pic {
 div.speaker div.panel-heading {
   font-size: 0.8em;
 }
-div.speaker p.speaker-bio {
-  font-size: 1em;
-  line-height: 1.5em;
-}
+div.speaker p.speaker-bio,
 div.speaker p.speaker-abstract {
   font-size: 0.8em;
   line-height: 1.3em;
@@ -208,6 +205,10 @@ div.speaker p.speaker-abstract {
 	}
 	.people-name h6 {
 		font-size: 9px;
+	}
+	div.speaker iframe {
+		width: 360px;
+		height: 200px;
 	}
 }
 
