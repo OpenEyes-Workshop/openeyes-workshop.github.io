@@ -655,7 +655,7 @@ Khargonekar's current research and teaching interests include systems and contro
 <br>
 
 <div class="row">
-  <div class="col-xs-12" id="accepted">
+  <div class="col-xs-12" id="awards">
     <h2>Awards</h2>
     <div class="award">
       <h3>Best Paper Award
