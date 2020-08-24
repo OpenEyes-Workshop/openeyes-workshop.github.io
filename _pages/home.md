@@ -20,7 +20,7 @@ acknowledgements: ""
     <center>AM session: <s>8:00am - 11:00pm (UTC+1)</s>
       <a href="https://www.youtube.com/watch?v=EuzLew8FcdM" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
     </center>
-    <center><s>PM session: 7:00pm - 10:00pm (UTC+1)</s>
+    <center>PM session: <s>7:00pm - 10:00pm (UTC+1)</s>
       <a href="https://www.youtube.com/watch?v=RDfThX0mnUg" target="_blank" style="color:blue;">[Recording of Zoom Session]</a>
     </center>
     <br>
