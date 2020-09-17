@@ -450,7 +450,6 @@ acknowledgements: ""
   <div class="col-sm-9">
     <h3>Eye Tracking: Ready to deliver the promises?</h3><br>
     <!--<b>Abstract</b><p class="speaker-abstract"></p>-->
-    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D7fMLYqvujQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" href="#ek-bio" style="cursor:pointer;text-align:center">
         <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
