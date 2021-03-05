@@ -157,7 +157,7 @@ acknowledgements: ""
           <a target="_blank" href="https://research.fb.com/">Facebook</a> organized the first challenge
           <a target="_blank" href="https://research.fb.com/programs/the-2019-openeds-workshop-eye-tracking-for-vr-and-ar/">“Eye Tracking for VR and AR (OpenEDS)”</a>
           at the ICCV 2019 and the independent GAZE committee organized a workshop titled
-          <a target="_blank" href="https://gazeworkshop.github.io/">“Gaze Estimation and Prediction in the Wild (GAZE)”</a>.
+          <a target="_blank" href="https://gazeworkshop.github.io/2019">“Gaze Estimation and Prediction in the Wild (GAZE)”</a>.
           </p>
           <p>
           For 2020, the Facebook and GAZE committees are partnering to host a joint workshop titled
@@ -647,7 +647,7 @@ Khargonekar's current research and teaching interests include systems and contro
     <br>
     <center>
       Also check out the papers from last year's
-      <a class="btn btn-success" target="_blank" href="https://gazeworkshop.github.io/#accepted">GAZE 2019</a> and
+      <a class="btn btn-success" target="_blank" href="https://gazeworkshop.github.io/2019#accepted">GAZE 2019</a> and
       <a class="btn btn-primary" target="_blank" href="https://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_OpenEDS">OpenEDS 2019</a>
     </center>
   </div>
